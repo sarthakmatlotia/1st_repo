@@ -1,0 +1,751 @@
+hotel_id,state,city,ratings,alcohol_availability,hotel_name,total_rooms,category,pricing,meals
+1,Delhi,New Delhi,3,Without Alcohol,Hotel LA  A unit of L A Hotels And Retreats Pvt  Ltd  ,35,1,11597,All meals
+2,Gujarat,Adalaj,5,Without Alcohol,Amba Suites  Unit of Amba Township Private Limited,64,1,11023,Dinner
+3,Gujarat,Ahmedabad,4,Without Alcohol,Hotel Pragati The Grand  A Unit of Pragati The Grand Residency ,45,1,9832,Lunch
+4,Gujarat,Ahmedabad,2.2,Without Alcohol,Hotel Rezaas,38,1,10455,Breakfast
+5,Gujarat,Anand,4.5,Without Alcohol,HOTEL ARIZONA INN,28,1,8764,Breakfast
+6,Gujarat,Bhavnagar,5,Without Alcohol,Blackbuck Safari Lodge,18,1,12345,Lunch
+7,Gujarat,Gandhinagar,2.2,Without Alcohol,7 Wonders,19,1,9158,Dinner
+8,Gujarat,Gandhinagar,4.4,Without Alcohol,Jinanssh Hotels,58,1,14267,All meals
+9,Gujarat,Morvi,3.2,Without Alcohol,Avadh Fun Hub,12,1,10896,Dinner
+10,Gujarat,Rajkot,2,Without Alcohol,The Pinevinta Hotel,25,1,12789,Lunch
+11,Gujarat,Surat,4,Without Alcohol,GEN X  SURAT  A UNIT OF KADODARA HOTELS ,49,1,9674,Breakfast
+12,Gujarat,Vadodara,3.4,Without Alcohol,HOTEL APPLE GRAND ,42,1,8956,All meals
+13,Gujarat,Vadodara,1.2,Without Alcohol,VADPADRAKA HOTEL   RESORT,18,1,13542,Dinner
+14,Gujarat,Veraval,3,Without Alcohol,The Divine Water World,23,1,10321,All meals
+15,Madhya Pradesh,Dhar,4.1,Without Alcohol,HOTEL JAHAJMAHAL,25,1,8345,Breakfast
+16,Maharashtra,Lonavala,2.3,Without Alcohol,HOTEL MANIK MOTI,19,1,13987,Lunch
+17,Andaman And Nicobar,Port Blair ,4.3,Without Alcohol,HOTEL SHREESH,38,2,18742,Dinner
+18,Assam,Dibrugarh,2.3,Without Alcohol,COMFORT HOTEL,26,2,22563,Lunch
+19,Assam,Dibrugarh,3,Without Alcohol,Hotel Sanjivani Heritage,28,2,25891,Breakfast
+20,Assam,Guwahati,2.1,Without Alcohol,HOTEL NEZONE   A UNIT OF NEZONE GLASS PVT  LTD ,28,2,26874,Dinner
+21,Gujarat,Dwarka,3.6,Without Alcohol,Cygnett Inn Dwarka  Unit of Om Enterprise ,48,2,21345,All meals
+22,Gujarat,Gandhidham,2.9,Without Alcohol,RAJVI HOTELS,40,2,17982,Breakfast
+23,Gujarat,Gandhidham,3,Without Alcohol,The Neemaya Hotel  A Unit of Hotel Natraj ,51,2,20217,All meals
+24,Gujarat,Gandhinagar,4,Without Alcohol,Hotel The Hillock  A unit of HOTEL HILLOCK PRIVATE LIMITED ,49,2,27493,Breakfast
+25,Gujarat,Jamnagar,3,Without Alcohol,Raaj Svasti Inn  Unit of Raaj Enventure Private Limited,48,2,19625,Dinner
+26,Gujarat,Kevadiya,1.1,Without Alcohol,BRG BUDGET STAY  A unit of Anay Associates ,139,2,28109,Lunch
+27,Gujarat,Morabi,2.3,Without Alcohol,Club 36  Unit of Vrunda Entertainment LLP,10,2,23456,All meals
+28,Gujarat,Morvi,2.4,Without Alcohol,Shiv Hotel,21,2,24875,Lunch
+29,Gujarat,Navsari,4.7,Without Alcohol,HARE KRISHNA HOTEL,15,2,18567,Breakfast
+30,Gujarat,Porbandar,4.1,Without Alcohol,HOTEL BALAJI PALACE,20,2,19872,Dinner
+31,Gujarat,Saurashtra,1.3,Without Alcohol,Rann Riders,29,2,16854,Breakfast
+32,Gujarat,Vadodara,2.2,Without Alcohol,EFFOTEL BY SAYAJI,83,2,29234,All meals
+33,Himachal Pradesh,Manali,3.6,Without Alcohol,HOTEL VALLEY OF GODS,15,2,25309,All meals
+34,Kerala,Thiruvananthapuram,3.7,Without Alcohol,Hotel Marine Palace ,20,2,27456,Lunch
+35,Kerala,Thiruvananthapuram,4.6,Without Alcohol,JEEVAN AYURVEDIC BEACH RESORT,14,2,29845,Breakfast
+36,Maharashtra,Kollhapur,1,Without Alcohol,Hotel Vrishali Executive  A unit of Vrishali Hotels Pvt  Ltd  ,84,2,22763,Dinner
+37,Maharashtra,SANTACURZ,4.4,Without Alcohol,HOTEL AIRLINK,39,2,26981,Lunch
+38,Odisha,Sambalpur,3.4,Without Alcohol,Welcome Spa and Resort,41,2,17392,All meals
+39,Rajasthan,Alwar,1.6,Without Alcohol,SPARROW INN  A Unit of Alwar Hospitality Pvt  Ltd  ,19,2,29576,Lunch
+40,Andhra Pradesh,East Godavari,3.5,Without Alcohol,HOTEL SHELTON RAJAMAHENDRI,97,3,43027,All meals
+41,Andhra Pradesh,Kakinada,2.4,Without Alcohol,Royal Park Sri Adilakshmi Property Developers Pvt  Ltd  ,84,3,63482,Breakfast
+42,Andhra Pradesh,Kurnool,4,Without Alcohol,Triguna Clarks Inn,49,3,35931,Dinner
+43,Andhra Pradesh,Nellore,3,Without Alcohol,MINERVA GRAND   NELLORE,106,3,41567,Dinner
+44,Andhra Pradesh,Rajahmundry,1.1,Without Alcohol,La Hospin Hotel Rajahmundry  A unit of La Hospin Hotels and Resorts Private Limited ,69,3,68394,All meals
+45,Andhra Pradesh,Rajam,2.3,Without Alcohol,River Bay Resort,68,3,57812,Breakfast
+46,Andhra Pradesh,Tirupati,2.4,Without Alcohol,BHIMAS RESIDENCY HOTEL  A UNIT OF BHIMAS RESIDENCY HOTELS PRIVATE LIMITED ,48,3,72894,Lunch
+47,Andhra Pradesh,Tirupati,4.7,Without Alcohol,FORTUNE KENCES HOTEL,126,3,31754,Breakfast
+48,Andhra Pradesh,Tirupati,4.1,Without Alcohol,Hotel Bliss,92,3,44983,Dinner
+49,Andhra Pradesh,Tirupati,1.3,Without Alcohol,Minerva Grand Tirupati,69,3,65287,All meals
+50,Andhra Pradesh,Vijayawada,4.6,Without Alcohol,HOTEL AJANTHA EVERGREEN,36,3,49105,All meals
+51,Andhra Pradesh,Vijayawada,3,Without Alcohol,Hotel Manorama A Unit of Welcome Poorna Enterprises Private Limited ,70,3,71456,Breakfast
+52,Andhra Pradesh,Vijayawada,5,Without Alcohol,HOTEL MIDCITY,44,3,38276,All meals
+53,Andhra Pradesh,Vijayawada,4,Without Alcohol,THE KAY HOTEL,40,3,53621,Dinner
+54,Andhra Pradesh,Visakhapatnam,2.2,Without Alcohol,BEST WESTERN RAMACHANDRA,64,3,33927,Breakfast
+55,Andhra Pradesh,Visakhapatnam,4.5,Without Alcohol,FAIRFIELD BY MARRIOTT,121,3,58402,Lunch
+56,Arunachal Pradesh,Itanagar,5,Without Alcohol,Cygnett Inn Trendz,32,3,62347,All meals
+57,Arunachal Pradesh,Itanagar,2.2,Without Alcohol,Waii International Hotel,50,3,36821,Dinner
+58,Arunachal Pradesh,West Kameng,4.4,Without Alcohol,NORPHEL RETREAT DIRANG,45,3,74291,Breakfast
+59,Assam,Dibrugarh,3.2,Without Alcohol,Hotel Rainbow ,25,3,55309,Lunch
+60,Assam,Dibrugarh,2,Without Alcohol,PUSHKARA GARDEN,60,3,47865,All meals
+61,Assam,Guwahati,4.7,Without Alcohol,DICHANG RESORT,57,3,66935,All meals
+62,Assam,Guwahati,5,Without Alcohol,HOTEL CITYWALK INTERNATIONAL,41,3,69142,Lunch
+63,Assam,Guwahati,2.4,Without Alcohol,Hotel Paramount Palacio,25,3,32891,Breakfast
+64,Assam,Guwahati,3.1,Without Alcohol,Mayflower Hotel  A Unit of Mayflower Hotels and Resorts LLP ,36,3,47543,Dinner
+65,Assam,Guwahati,2.6,Without Alcohol,The Lily Hotel,78,3,54892,All meals
+66,Assam,Jorhat,1.4,Without Alcohol,Gulmohar Grand  an Unit of Borthakur Developers ,26,3,34678,Dinner
+67,Assam,Kokrajhar,4.9,Without Alcohol,HOTEL GAURANG VALLEY,62,3,70928,Breakfast
+68,Assam,Mangaldoi,1.9,Without Alcohol,Repose Highway Resort  A unit of Repose Highway Resort Private Limited ,20,3,73481,All meals
+69,Assam,Nagaon,2.9,Without Alcohol,HOTEL BLUE BIRD,22,3,48302,Lunch
+70,Bihar,Bodhgaya,3.7,Without Alcohol,Oaks Bodhgaya  A unit of Bodhi Hotel and Resorts Pvt  Ltd  ,78,3,73795,Breakfast
+71,Chhattisgarh,Bilaspur,3.5,Without Alcohol,COURTYARD BY MARRIOTT BILASPUR ,100,3,56418,All meals
+72,Chhattisgarh,Bilaspur,3.1,Without Alcohol,Hotel Intercity International,39,3,75000,Dinner
+73,Chhattisgarh,Bilaspur,4.1,Without Alcohol,THE EMERALD,22,3,42967,Lunch
+74,Chhattisgarh,Durg Bhilai Nagar,3.1,Without Alcohol,Hotel Ashish International,17,3,34529,Breakfast
+75,Chhattisgarh,Durg Bhilai Nagar,4.6,Without Alcohol,Hotel Grand Dhillon,39,3,52713,All meals
+76,Chhattisgarh,Korba,2.972461752,Without Alcohol,hotel relax inn,42,3,64820,Dinner
+77,Chhattisgarh,Raigarh,2.972461752,Without Alcohol,Hotel Accordd Premier  ACCORDD Chain of Hotels ,35,3,61304,Lunch
+78,Chhattisgarh,Raigarh,2.972461752,Without Alcohol,Hotel Ans International,71,3,46287,Breakfast
+79,Chhattisgarh,Raipur ,2.972461752,Without Alcohol,GREENWOOD FOURSEASONS ,15,3,51209,All meals
+80,Chhattisgarh,Raipur ,4,Without Alcohol,HOTEL GAGAN REGENCY,26,3,70563,Lunch
+81,Chhattisgarh,Raipur ,3,Without Alcohol,HOTEL IVY,38,3,61092,Breakfast
+82,Chhattisgarh,Raipur ,1.1,Without Alcohol,HOTEL KINGSWAY,30,3,38745,All meals
+83,Chhattisgarh,Raipur ,2.3,Without Alcohol,HOTEL SOLITAIRE   A UNIT OF R R S K ENTERPRISES ,48,3,43926,Dinner
+84,Chhattisgarh,Raipur ,2.4,Without Alcohol,HOTEL THE GOLDEN OAK,28,3,50283,Breakfast
+85,Chhattisgarh,Raipur ,4.7,Without Alcohol,RMV RESORT AND HOTELS PVT LTD,111,3,41690,Lunch
+86,Chhattisgarh,Rajnandgaon,4.1,Without Alcohol,Hotel Awana,15,3,63172,All meals
+87,Delhi,New Delhi,1.3,Without Alcohol,HOTEL THE MANOR,12,3,37840,Dinner
+88,Goa,Margao,3,Without Alcohol,Hotel Nanutel Margao,55,3,66821,Breakfast
+89,Goa,vasco da gama,5,Without Alcohol,Hotel La Paz Gardens  A unit of Hotel La Paz Gardens Pvt  Ltd  ,73,3,67439,All meals
+90,Gujarat,Ahmedabad,4,Without Alcohol,Aarya Grand Hotels Resorts,105,3,40512,Lunch
+91,Gujarat,Ahmedabad,2.2,Without Alcohol,AJU IMPERIAL HOTEL  A UNIT OF AJU RYOKAN NCR PVT LTD  ,107,3,54309,Breakfast
+92,Gujarat,Ahmedabad,4.5,Without Alcohol,AVALON HOTEL AND BANQUETS,46,3,67918,All meals
+93,Gujarat,Ahmedabad,5,Without Alcohol,Belvedere Club  A unit of BELVEDERE GOLF AND COUNTRY CLUB PVT LTD,55,3,60287,Dinner
+94,Gujarat,Ahmedabad,2.2,Without Alcohol,Bloom Suites  A unit of Ms Rising Hotel Limited ,68,3,62850,Breakfast
+95,Gujarat,Ahmedabad,4.4,Without Alcohol,Comfort Inn President  A unit of Sun N Silver Inn Pvt  Ltd ,57,3,69730,Lunch
+96,Gujarat,Ahmedabad,3.2,Without Alcohol,COMFORT INN SUNSET,57,3,57182,All meals
+97,Gujarat,Ahmedabad,2,Without Alcohol,HOTEL CENTRA,37,3,58392,Dinner
+98,Gujarat,Ahmedabad,2.972461752,Without Alcohol,HOTEL NALANDA,43,3,72418,All meals
+99,Gujarat,Ahmedabad,1,Without Alcohol,Hotel Silvera Grand,21,3,69592,Breakfast
+100,Gujarat,Ahmedabad,4.4,Without Alcohol,Palm Greens Club  Unit of Snesh Resorts Private Limited,62,3,32798,Lunch
+101,Gujarat,Ahmedabad,3.4,Without Alcohol,Regenta Central Antarim ,73,3,64291,All meals
+102,Gujarat,Ahmedabad,1.6,Without Alcohol,Regenta Inn   Ranip,102,3,59345,Breakfast
+103,Gujarat,Ahmedabad,3.5,Without Alcohol,TGB EXPRESS HOTEL  A UNIT OF HOTEL PALMLAKE  KANKARIA  PVT  LTD ,33,3,50938,Dinner
+104,Gujarat,Anand,2.4,Without Alcohol,Humming Bird Hotel and Banquet,38,3,73129,All meals
+105,Gujarat,Anand,4,Without Alcohol,LA CASA INN ,44,3,70382,Lunch
+106,Gujarat,Bharuch,3,Without Alcohol,Regenta Central Harimangla,104,3,37892,Breakfast
+107,Gujarat,Bharuch,1.1,Without Alcohol,Regenta Central Hestia Dahej,69,3,35829,All meals
+108,Gujarat,Bharuch,2.3,Without Alcohol,VEDIK RESORT,129,3,69421,Dinner
+109,Gujarat,Bhavnagar,2.4,Without Alcohol,Top3 Lords Resort  A unit of Tree Top Resorts Spa Pvt  Ltd  ,39,3,44512,Lunch
+110,Gujarat,Bhavnagar,2.972461752,Without Alcohol,VIRGO SUMERU,33,3,47923,All meals
+111,Gujarat,Bhuj,4,Without Alcohol,HOTEL COMFORT INN PRINCE ,44,3,66123,Breakfast
+112,Gujarat,Bhuj,3,Without Alcohol,HOTEL ILARK,29,3,52317,All meals
+113,Gujarat,Bhuj,1.1,Without Alcohol,HOTEL SEVEN SKY,82,3,41937,Breakfast
+114,Gujarat,Bhuj,2.3,Without Alcohol,LaKamp Resort  Unit of Kashish Resort ,29,3,53629,Lunch
+115,Gujarat,Bhuj,2.4,Without Alcohol,The Fern Residency Bhuj  A unit of Ms THE BESIL INN ,46,3,63715,Dinner
+116,Gujarat,Dang,4.7,Without Alcohol,Sunotel,90,3,34589,All meals
+117,Gujarat,Dwarka,4.1,Without Alcohol,Bapu   s Resort  Unit of Bapu Enterprise ,52,3,45892,Breakfast
+118,Gujarat,Jamnagar,1.3,Without Alcohol,Highway Hari,19,3,75000,Dinner
+119,Gujarat,Kutch,3,Without Alcohol,ambar sarovar portico,58,3,71942,All meals
+120,Gujarat,Mahesana,5,Without Alcohol,HOTEL SHIVALIK,30,3,48673,Lunch
+121,Gujarat,Morabi,4,Without Alcohol,Sarovar Portico  Unit of Specific Ceramic Hotel,59,3,74295,Breakfast
+122,Gujarat,Morbi,2.2,Without Alcohol,Khajoora Hotel n Resort,40,3,70281,All meals
+123,Gujarat,Morvi,4.5,Without Alcohol,DARIYALAL HOTEL ,18,3,72539,Dinner
+124,Gujarat,Morvi,5,Without Alcohol,HOTEL THE GRAND VAIBHAV,35,3,38764,All meals
+125,Gujarat,Morvi,2.2,Without Alcohol,Lords Eco Inn unit of Hotel Seven Paradise,40,3,55238,Lunch
+126,Gujarat,Morvi,4.4,Without Alcohol,OAK TREE,52,3,46289,Breakfast
+127,Gujarat,Morvi,3.2,Without Alcohol,Regenta Inn Unit of Hotel The Grand Dharmendra,54,3,62134,All meals
+128,Gujarat,Porbandar,2.4,Without Alcohol,LORDS ECO INN,29,3,74315,Dinner
+129,Gujarat,Porbandar,3.1,Without Alcohol,Lords Eco Inn   A Unit of Delite Enterprise   ,29,3,54312,Breakfast
+130,Gujarat,Rajkot,2.6,Without Alcohol,AARYARAJ CLUB AND RESORTS,28,3,65317,All meals
+131,Gujarat,Rajkot,1.4,Without Alcohol,Hotel Comfort INN Legacy  Prop  S Kumar Associates Private Limited ,37,3,57293,Lunch
+132,Gujarat,Rajkot,4.9,Without Alcohol,Hotel KK Beacon  A Unit of Hotel K K   India  Private Limited ,34,3,72367,Breakfast
+133,Gujarat,Rajkot,1.9,Without Alcohol,Krishna Park Resort  A unit of Messrs Hotel Krishna Park Nursary ,29,3,39251,Dinner
+134,Gujarat,Rajkot,2.9,Without Alcohol,marasa sarovar portico rajkot ,68,3,66821,All meals
+135,Gujarat,Rajkot,3.7,Without Alcohol,Phoenix Hospitality,24,3,41536,Lunch
+136,Gujarat,Rajkot,3.5,Without Alcohol,REGENCY LAGOON RESORT,120,3,62731,Breakfast
+137,Gujarat,Rajkot,3.1,Without Alcohol,Regenta Central Rajkot  Unit of P P Developers ,92,3,74678,Dinner
+138,Gujarat,Sanand,4.1,Without Alcohol,Ginger Sanand,104,3,72491,All meals
+139,Gujarat,Saurashtra,3.1,Without Alcohol,LORDS RESORT A UNIT OF SETU JOY PVT  LTD ,42,3,69827,Lunch
+140,Gujarat,Surat,4.6,Without Alcohol,SHILPI HILL RESORT,68,3,63294,Breakfast
+141,Gujarat,Surat,1.1,Without Alcohol,The Amore Banquets,17,3,67894,Dinner
+142,Gujarat,Talaja,2.3,Without Alcohol,The Postcard Gir Wildlife Sanctuary  A unit of The General s Retreat Gir ,15,3,74129,All meals
+143,Gujarat,Vadodara,2.4,Without Alcohol,The Fern  Akota Vadodara  A unit of Nand Hospitality Pvt  Ltd   ,72,3,55728,Breakfast
+144,Gujarat,Vadodara,1.1,Without Alcohol,COMFORT INN DONIL  MANISH EMPIRE ,79,3,51892,All meals
+145,Gujarat,Vadodara,2.3,Without Alcohol,Eastin Residences Vadodara,44,3,73429,Dinner
+146,Gujarat,Vadodara,2.4,Without Alcohol,HOTEL RAMADA ENCORE ,52,3,37129,Lunch
+147,Gujarat,Vadodara,4.7,Without Alcohol,Kabir Hotel and Spa,57,3,74732,Breakfast
+148,Gujarat,Vadodara,4.1,Without Alcohol,Regenta Inn by Royal Orchid Hotels  unit of Cube Construction Engineering ltd ,58,3,43928,All meals
+149,Gujarat,Vadodara,1.3,Without Alcohol,Suncity LIfestyle,37,3,33521,Dinner
+150,Gujarat,Vapi,3,Without Alcohol,HOTEL SILVER LEAF VILLAGE,17,3,67921,Lunch
+151,Gujarat,Viramgam,5,Without Alcohol,HOTEL MIDORI,38,3,54276,Breakfast
+152,Haryana,Ambala,4,Without Alcohol,MM CONTINENTAL HOTEL,48,3,48257,All meals
+153,Haryana,Gurgaon,2.2,Without Alcohol,Country Inn   Suites By Carlson  A Unit of Tuberose Hotel ,73,3,36427,Breakfast
+154,Haryana,Gurgaon,4.5,Without Alcohol,Fortune Park Orange  A unit Of Orange SPA Hotel and Resorts Pvt  Ltd,96,3,65394,Dinner
+155,Haryana,Gurgaon,5,Without Alcohol,IBIS GURGAON,214,3,62937,All meals
+156,Haryana,Gurgaon,2.2,Without Alcohol,Lemon Tree Hotel  Tarudhan Valley   Manesar  A unit of Coronet Hotel Services and Supplies Pvt  Ltd  ,70,3,73492,Lunch
+157,Haryana,Gurgaon,4.4,Without Alcohol,Lemon Tree Hotel Tarudhan Valley,70,3,45927,Breakfast
+158,Haryana,Gurgaon,3.2,Without Alcohol,Skycity Hotels Private Limited,55,3,55286,Dinner
+159,Haryana,Rewari,2,Without Alcohol,Aravali Resorts,29,3,52913,All meals
+160,Himachal Pradesh,Solan,2.4,Without Alcohol,Timber Trail Resort  Unit of Asia Resort Ltd  ,28,3,34295,Breakfast
+161,Karnataka,Bangalore,3.1,Without Alcohol,Angsana Oasis Spa and Resort  A unit of Prestige Leisure Resorts Pvt  Ltd  ,79,3,75000,Dinner
+162,Karnataka,Bangalore,2.6,Without Alcohol,Holiday Inn Express and Suites Bengaluru  OMR  Unit of Brigade Hotel Ventures Limited,237,3,53812,Lunch
+163,Kerala,Adoor,1.4,Without Alcohol,CENTRAL PARK HOTEL,10,3,65192,All meals
+164,Kerala,Alappuzha,4.9,Without Alcohol,ALLEPPEY PRINCE HOTEL,43,3,60238,Breakfast
+165,Kerala,Alappuzha,1.9,Without Alcohol,Enkey s Residency,10,3,49732,Dinner
+166,Kerala,Alappuzha,2.9,Without Alcohol,HOTEL INDRAPRASTHA,10,3,72821,All meals
+167,Kerala,Alappuzha,3.7,Without Alcohol,HOTEL KALAI,15,3,40219,Lunch
+168,Kerala,Alappuzha,3.5,Without Alcohol,HOTEL KARTHIYAYINI,12,3,73421,Breakfast
+169,Kerala,Alappuzha,3.1,Without Alcohol,JEENA RESIDENCY,10,3,71238,All meals
+170,Kerala,Alappuzha,4.1,Without Alcohol,Magnet Hotels,12,3,71529,Dinner
+171,Kerala,Alappuzha,3.1,Without Alcohol,THE ROYALE PLAZA,24,3,70831,Breakfast
+172,Kerala,Angamaly,4.6,Without Alcohol,HOTEL BLUE BELLS  a Unit of EDASSERY MOTELS AND VILLAS  ,14,3,69473,All meals
+173,Kerala,Angamaly,1.1,Without Alcohol,HOTEL HILLS PARK  MATHA ENTERPRISES ,17,3,38726,Lunch
+174,Kerala,Angamaly,2.3,Without Alcohol,HOTEL MAXX INN,10,3,74283,Breakfast
+175,Kerala,Angamaly,2.4,Without Alcohol,The Hotel Chettungal,10,3,44783,Dinner
+176,Kerala,Angamaly,4.7,Without Alcohol,Vrindavan Retreat,10,3,61382,All meals
+177,Kerala,Attingal,4.1,Without Alcohol,DEV RESIDENCY,11,3,63127,Breakfast
+178,Kerala,Calicut,1.3,Without Alcohol,Hill Side ,11,3,62987,Lunch
+179,Kerala,Calicut,5,Without Alcohol,Hotel Maharani  A unit of Hotel Maharani Pvt  Ltd  ,43,3,48732,Dinner
+180,Kerala,Calicut,4,Without Alcohol,Hotel Surya,15,3,46512,All meals
+181,Kerala,Calicut,2.2,Without Alcohol,Mavoor Regency,10,3,47629,Breakfast
+182,Kerala,Calicut,4.5,Without Alcohol,Park Residency,20,3,64482,All meals
+183,Kerala,Calicut,5,Without Alcohol,Park Residency   Kuttiyadi  A unit of Flair Hotels and Resorts Pvt  Ltd,16,3,68571,Dinner
+184,Kerala,Calicut,2.2,Without Alcohol,Prinz Residency,17,3,53478,Lunch
+185,Kerala,Calicut,4.4,Without Alcohol,The North Park,18,3,69238,Breakfast
+186,Kerala,Chalakudy,3.2,Without Alcohol,Hotel Harshavardhana Inn,15,3,72129,All meals
+187,Kerala,Chalakudy,2,Without Alcohol,Hotel Rachana Continental  A unit of Hotel Rachana Continental Pvt Ltd  ,14,3,43628,Lunch
+188,Kerala,Changanassery,2.972461752,Without Alcohol,Hotel Panchavady,12,3,49374,Breakfast
+189,Kerala,Changanassery,2.972461752,Without Alcohol,Hotel Breezeland  A unit of Breezeland Hotels Ltd ,18,3,58327,Dinner
+190,Kerala,Changanassery,2.972461752,Without Alcohol,HOTEL VANI,16,3,52943,All meals
+191,Kerala,Chengannur,1,Without Alcohol,NAVARATNA TOURIST HOME,10,3,39217,Breakfast
+192,Kerala,CHERAI,4.4,Without Alcohol,Cherai beach resorts,25,3,73832,Dinner
+193,Kerala,Cherthala,3.4,Without Alcohol,Hotel Aroor Residency ,17,3,74592,All meals
+194,Kerala,Cherthala,1.6,Without Alcohol,Hotel Envees,10,3,36892,Lunch
+195,Kerala,Cherthala,3.5,Without Alcohol,Keerthi Palace Restaurant,10,3,55832,Breakfast
+196,Kerala,Ernakulam,2.4,Without Alcohol,Amruthu Residency,13,3,63482,Dinner
+197,Kerala,Ernakulam,4,Without Alcohol,Arpitha Tourist Home,10,3,54192,All meals
+198,Kerala,Ernakulam,3,Without Alcohol,Aruna Tourist Home,10,3,67318,Breakfast
+199,Kerala,Ernakulam,1.1,Without Alcohol,ARYA INTERNATIONAL,15,3,72931,Lunch
+200,Kerala,Ernakulam,2.3,Without Alcohol,ATSWILLINGDON HOTEL,19,3,65892,All meals
+201,Kerala,Ernakulam,2.4,Without Alcohol,Cochin Seaport Hotel,25,3,70394,Dinner
+202,Kerala,Ernakulam,1,Without Alcohol,Diana Tourist Home,10,3,68427,Breakfast
+203,Kerala,Ernakulam,4.4,Without Alcohol,ELOOR TOURIST HOME,15,3,64931,All meals
+204,Kerala,Ernakulam,3.4,Without Alcohol,Gopika Regency,20,3,67192,Lunch
+205,Kerala,Ernakulam,1.6,Without Alcohol,HAMILTON RESIDENCY  A UNIT OF HOTEL HAMILTON RESIDENCY PVT LTD ,10,3,61827,Breakfast
+206,Kerala,Ernakulam,3.5,Without Alcohol,Hotel Amruthu,10,3,46783,Dinner
+207,Kerala,Ernakulam,2.4,Without Alcohol,Hotel Chandni Park  Hind Resorts and Services Pvt Ltd  ,11,3,50812,All meals
+208,Kerala,Ernakulam,4,Without Alcohol,HOTEL EDASSERY MANSION,32,3,70572,Breakfast
+209,Kerala,Ernakulam,3,Without Alcohol,Hotel Elegance  A unit of Perumbavoor Hotels and Resorts Pvt  Ltd  ,12,3,61284,Lunch
+210,Kerala,Ernakulam,1.1,Without Alcohol,Hotel Geo,10,3,47839,Dinner
+211,Kerala,Ernakulam,2.3,Without Alcohol,HOTEL GREEN PALACE,11,3,58971,All meals
+212,Kerala,Ernakulam,2.4,Without Alcohol,Hotel Hill Palace  South Asia Hotels Ltd ,32,3,42736,Breakfast
+213,Kerala,Ernakulam,2.4,Without Alcohol,Hotel Kadambari Regency  A unit of Hotel Kadambari Regency Private Limited,11,3,51731,Dinner
+214,Kerala,Ernakulam,3.1,Without Alcohol,HOTEL KEERTHY,10,3,71428,All meals
+215,Kerala,Ernakulam,2.6,Without Alcohol,HOTEL KOTTARAM ,11,3,71312,Lunch
+216,Kerala,Ernakulam,1.4,Without Alcohol,HOTEL NAYANA,10,3,73819,Breakfast
+217,Kerala,Ernakulam,4.9,Without Alcohol,Hotel Olive Eva,44,3,53894,Dinner
+218,Kerala,Ernakulam,1.9,Without Alcohol,HOTEL PALACE INN,12,3,62549,All meals
+219,Kerala,Ernakulam,2.9,Without Alcohol,Hotel Panoramic,10,3,72895,Lunch
+220,Kerala,Ernakulam,3.7,Without Alcohol,Hotel Saj International,14,3,52821,Breakfast
+221,Kerala,Ernakulam,3.5,Without Alcohol,HOTEL SEA GATE,10,3,66421,Dinner
+222,Kerala,Ernakulam,3.1,Without Alcohol,Hotel Zodiac,10,3,64283,All meals
+223,Kerala,Ernakulam,4.1,Without Alcohol,Jawahar Tourist Home,11,3,75000,Breakfast
+224,Kerala,Ernakulam,3.1,Without Alcohol,KATHRIKADAVU TOURIST HOME  HOTEL SEA PEARL  ,10,3,48362,Lunch
+225,Kerala,Ernakulam,4.6,Without Alcohol,KIZHAKKAMBALAM TOURIST HOME,15,3,59821,All meals
+226,Kerala,Ernakulam,4,Without Alcohol,LOVEDONS GARDEN,10,3,64317,Dinner
+227,Kerala,Ernakulam,2.2,Without Alcohol,MAHARANI HOLIDAY HOME,10,3,45937,Breakfast
+228,Kerala,Ernakulam,4.5,Without Alcohol,Maria International,17,3,56291,All meals
+229,Kerala,Ernakulam,5,Without Alcohol,Niko Hotels  A Unit of Hikari Hotels Pvt  Ltd  ,27,3,49362,Lunch
+230,Kerala,Ernakulam,2.2,Without Alcohol,Park Central  A unit of Hotel Siena Central Private Limited ,17,3,73831,Breakfast
+231,Kerala,Ernakulam,4.4,Without Alcohol,Park Residency,15,3,74572,Dinner
+232,Kerala,Ernakulam,3.2,Without Alcohol,Polakulath Regency ,10,3,71892,All meals
+233,Kerala,Ernakulam,2,Without Alcohol,POLAKULATH TOURIST HOME,12,3,69127,Breakfast
+234,Kerala,Ernakulam,2.972461752,Without Alcohol,Polakulath Tourist Home ,14,3,63729,Lunch
+235,Kerala,Ernakulam,4,Without Alcohol,Prayana Hotels,24,3,68582,Dinner
+236,Kerala,Ernakulam,3,Without Alcohol,Rock Rose Tourist Home  A unit of Rock Rose Tourist Home  P  Ltd ,11,3,44832,All meals
+237,Kerala,Ernakulam,1.1,Without Alcohol,Rose Residency,36,3,61983,Breakfast
+238,Kerala,Ernakulam,2.3,Without Alcohol,SONIA TOURIST HOME,14,3,75000,Dinner
+239,Kerala,Ernakulam,2.4,Without Alcohol,Sreevalsam Residency,10,3,70923,All meals
+240,Kerala,Ernakulam,4.7,Without Alcohol,XL HOTEL,10,3,58194,Lunch
+241,Kerala,Ettumanoor,4.1,Without Alcohol,Hotel Sreelakshmi Park,11,3,66921,Breakfast
+242,Kerala,Guruvayoor,2.4,Without Alcohol,Hotel Amaravathi ,10,3,59382,All meals
+243,Kerala,Idukki,3.1,Without Alcohol,AMBADY TOURIST HOME,10,3,65418,Lunch
+244,Kerala,Idukki,2.6,Without Alcohol,CHANDANA TOURIST HOME,25,3,53293,Breakfast
+245,Kerala,Idukki,1.4,Without Alcohol,DHANYA TOURIST HOME ,16,3,45839,Dinner
+246,Kerala,Idukki,4.9,Without Alcohol,HOTEL GREEN OASIS,18,3,49172,All meals
+247,Kerala,Idukki,1.9,Without Alcohol,Hotel Victoria International,10,3,68129,Breakfast
+248,Kerala,IRITTY,2.9,Without Alcohol,HOTEL SURYA,11,3,46927,Lunch
+249,Kerala,IRITTY,3.7,Without Alcohol,K K TOURIST HOME,20,3,60372,Dinner
+250,Kerala,IRITTY,3.5,Without Alcohol,Sky Paradise,16,3,73419,All meals
+251,Kerala,KALADY,3.1,Without Alcohol,EDASSERY VILLAGE RESORT,10,3,47529,Breakfast
+252,Kerala,Kalpetta,4.1,Without Alcohol,Chembra Residency  A unit of jilsu associates LLP ,10,3,62831,Dinner
+253,Kerala,Kanhangad,3.1,Without Alcohol,MALANADU TOURIST HOME ,14,3,71823,Lunch
+254,Kerala,Kanhangad,4.6,Without Alcohol,NEELESHWAR HERMITAGE,18,3,74283,Breakfast
+255,Kerala,Kannur,2.4,Without Alcohol,Geetha Residency,10,3,68521,All meals
+256,Kerala,Kannur,4,Without Alcohol,Broad Bean   A Unit Of KK Leisures and Tourism International Pvt  Ltd  ,15,3,66428,Lunch
+257,Kerala,Kannur,3,Without Alcohol,Hotel Parassini Polariz,36,3,63972,Dinner
+258,Kerala,Kannur,1.1,Without Alcohol,Hotel Samudra,11,3,51273,Breakfast
+259,Kerala,Kannur,2.3,Without Alcohol,HOTEL SKY PARK,19,3,54639,All meals
+260,Kerala,Kannur,2.4,Without Alcohol,LA SERENE HOTEL,14,3,45923,Lunch
+261,Kerala,Kannur,2.4,Without Alcohol,Lyndas Residency,12,3,68421,Dinner
+262,Kerala,Kannur,3.1,Without Alcohol,Rajadhani,10,3,35154,All meals
+263,Kerala,Kannur,2.6,Without Alcohol,SNEHA INN,14,3,49327,Breakfast
+264,Kerala,Karunagapally,1.4,Without Alcohol,Hotel Comfort Regency,11,3,74629,Lunch
+265,Kerala,Karunagapally,4.9,Without Alcohol,HOTEL INDRAPRASTHA,21,3,67539,Dinner
+266,Kerala,Kasaragod,1.9,Without Alcohol,J K  Residency Kasaragod,10,3,67539,All meals
+267,Kerala,KASARGOD,2.9,Without Alcohol,HOTEL BEKAL PALACE,20,3,52317,Breakfast
+268,Kerala,KASARGOD,3.7,Without Alcohol,HOTEL LANDMARK,12,3,70931,Dinner
+269,Kerala,Kayamkulam,3.5,Without Alcohol,HIGHWAY PALACE  A LEASED PROPERTY FROM HOTEL HIGHWAY PARK ,11,3,71892,Lunch
+270,Kerala,Kayamkulam,3.1,Without Alcohol,HOTEL ROMA CENTRAL ,10,3,69127,All meals
+271,Kerala,Kochi,4.1,Without Alcohol,Arakkathara tourist home,10,3,63729,Breakfast
+272,Kerala,Kochi,3.1,Without Alcohol,GINO TOURIST HOME,10,3,68582,Dinner
+273,Kerala,Kochi,4.6,Without Alcohol,KALAMASSERY TOURIST HOME,19,3,44832,All meals
+274,Kerala,Kochi,5,Without Alcohol,The Cochin Legacy  Labella Hospitality Pvt  Ltd  ,25,3,61983,Lunch
+275,Kerala,Kochi,2.2,Without Alcohol,THE INTERNATIONAL HOTEL,35,3,75000,Breakfast
+276,Kerala,Kodungallur,4.4,Without Alcohol,Aswathy Bar and Hotel,10,3,70923,Dinner
+277,Kerala,Kodungallur,3.2,Without Alcohol,Hotel Palace EN Paradise,10,3,58194,All meals
+278,Kerala,Kodungallur,2,Without Alcohol,KALLADA RESIDENCY,10,3,66921,Breakfast
+279,Kerala,Kodungallur,2.972461752,Without Alcohol,Polakulath Tourist Home  Pullut ,10,3,59382,Lunch
+280,Kerala,Kollam,2.972461752,Without Alcohol,HIGHLAND HOTEL AND RESORTS,22,3,65418,Dinner
+281,Kerala,Kollam,1,Without Alcohol,HOTEL ANTONY S TOWER,11,3,53293,All meals
+282,Kerala,Kollam,4.4,Without Alcohol,HOTEL DE ORIENT,10,3,45839,Breakfast
+283,Kerala,Kollam,3.4,Without Alcohol,HOTEL DONA CASTLE   a unit of Edassery Group of Hotels Pvt Ltd  ,17,3,49172,Dinner
+284,Kerala,Kollam,1.6,Without Alcohol,Hotel Emerald Palace,10,3,68129,Lunch
+285,Kerala,Kollam,3.5,Without Alcohol,HOTEL HARISREE,12,3,46927,All meals
+286,Kerala,Kollam,2.4,Without Alcohol,Hotel Lake View ,10,3,60372,Breakfast
+287,Kerala,Kollam,4,Without Alcohol,HOTEL PALAZHI,11,3,73419,Lunch
+288,Kerala,Kollam,3,Without Alcohol,Hotel Railview,18,3,47529,Dinner
+289,Kerala,Kollam,1.1,Without Alcohol,Hotel Sea Palace,20,3,62831,All meals
+290,Kerala,Kollam,2.3,Without Alcohol,Hotel Shilpa Retreat,10,3,71823,Breakfast
+291,Kerala,Kollam,2.4,Without Alcohol,HOTEL SOORYA,10,3,74283,Dinner
+292,Kerala,Kollam,4.9,Without Alcohol,HOTEL VIJAYA CASTLE,21,3,68521,Lunch
+293,Kerala,Kollam,1.4,Without Alcohol,Hotel Vijaya Palace,14,3,66428,All meals
+294,Kerala,Kollam,3.4,Without Alcohol,Mangalath Hotel and Resorts,15,3,63972,Breakfast
+295,Kerala,Kollam,4,Without Alcohol,MARIYALAYAM MUNROE ISLAND RESIDENCY,12,3,51273,Lunch
+296,Kerala,Kollam,3,Without Alcohol,ROYALE REGENCY HOTEL AND CONVENTION CENTER,29,3,54639,Dinner
+297,Kerala,Kollam,5,Without Alcohol,San Tourist Home ,11,3,45923,All meals
+298,Kerala,Kollam,4,Without Alcohol,SREE GOKULAM RESIDENCY   A UNIT OF SREE GOKULAM HOTEL  INDIA  PVT LTD ,11,3,45846,Breakfast
+299,Kerala,Kollam,2.2,Without Alcohol,THE ESQUIRE PARK,12,3,31587,Dinner
+300,Kerala,Kollam,4.5,Without Alcohol,Vijaya Hotel and Bar,10,3,85563,Lunch
+301,Kerala,Kottayam,5,Without Alcohol,Finch Hotels  A unit of Ms Finch Hotels and Traders Pvt Ltd ,19,3,41581,All meals
+302,Kerala,Kottayam,2.2,Without Alcohol,HOTEL AIDA,33,3,71547,Breakfast
+303,Kerala,Kottayam,4.4,Without Alcohol,Hotel Alaina,10,3,73821,Lunch
+304,Kerala,Kottayam,3.2,Without Alcohol,Hotel Anjali Park,19,3,68821,Dinner
+305,Kerala,Kottayam,2,Without Alcohol,HOTEL ARCADIA,47,3,71823,All meals
+306,Kerala,Kottayam,1,Without Alcohol,Hotel Armani,10,3,69832,Breakfast
+307,Kerala,Kottayam,4.4,Without Alcohol,HOTEL BREEZE INTERNATIONAL ,10,3,70932,Dinner
+308,Kerala,Kottayam,3.4,Without Alcohol,HOTEL CASTLE RESIDENCY,11,3,67823,Lunch
+309,Kerala,Kottayam,1.6,Without Alcohol,HOTEL MEDAS,11,3,72932,All meals
+310,Kerala,Kottayam,3.5,Without Alcohol,HOTEL NITHYA,11,3,69821,Breakfast
+311,Kerala,Kottayam,2.4,Without Alcohol,Hotel Pankaj ,10,3,71832,Dinner
+312,Kerala,Kottayam,4,Without Alcohol,HOTEL PRESIDENCY,10,3,68823,Lunch
+313,Kerala,Kottayam,3,Without Alcohol,HOTEL PRINCE  ,10,3,76683,All meals
+314,Kerala,Kottayam,1.1,Without Alcohol,HOTEL SUMMERSAND RESTAURANT,11,3,82142,Breakfast
+315,Kerala,Kottayam,2.3,Without Alcohol,HOTEL VARSHA INTERNATIONAL RESIDENCY,15,3,83675,Lunch
+316,Kerala,Kottayam,2.4,Without Alcohol,Hotel Zodiac International,10,3,87729,Dinner
+317,Kerala,Kottayam,4,Without Alcohol,JOYEES RESIDENCY,12,3,95672,All meals
+318,Kerala,Kottayam,3,Without Alcohol,Merlin Residency,11,3,87123,Breakfast
+319,Kerala,Kovalam,2,Without Alcohol,DIAMOND PALACE HOTEL,10,3,93485,Dinner
+320,Kerala,Kovalam,3,Without Alcohol,HOTEL SEA FACE,20,3,92746,Lunch
+321,Kerala,Koyilandy,5,Without Alcohol,Kalyan Residency,11,3,86249,All meals
+322,Kerala,Kozhikode,4,Without Alcohol,Hotel Hasthinapuri Inn,14,3,78835,Breakfast
+323,Kerala,Kozhikode,2.2,Without Alcohol,HOTEL MONAD,20,3,78236,Lunch
+324,Kerala,Kozhikode,4.5,Without Alcohol,Hotel Springway  A unit of Hotel Springway LLP ,11,3,81123,Dinner
+325,Kerala,Kozhikode,5,Without Alcohol,HOTEL THUSHARA INTERNATIONAL,19,3,79832,All meals
+326,Kerala,Kozhikode,2.2,Without Alcohol,Kings Regency  A unit of King s Regency LLP ,11,3,89357,Breakfast
+327,Kerala,Kozhikode,4.4,Without Alcohol,KOVILAKAM RESIDENCY  A UNIT OF KOVILAKAM RESIDENCY PRIVATE LIMITED ,27,3,76249,Dinner
+328,Kerala,Kozhikode,3.2,Without Alcohol,MEDORA HOTEL,40,3,88724,Lunch
+329,Kerala,Kozhikode,2,Without Alcohol,Park Residency,16,3,61092,All meals
+330,Kerala,Kozhikode,2.972461752,Without Alcohol,Queens Hotel,11,3,38745,Breakfast
+331,Kerala,Kozhikode,4,Without Alcohol,Theertha International,15,3,43926,Dinner
+332,Kerala,Kunnamkulam,3,Without Alcohol,R C Park,10,3,50283,Lunch
+333,Kerala,Kunnamkulam,1.1,Without Alcohol,victory inn park residency,10,3,41690,All meals
+334,Kerala,Malappuram,2.3,Without Alcohol,Hotel Mahendrapuri,12,3,63172,Breakfast
+335,Kerala,Malappuram,2.4,Without Alcohol,HOTEL PICNIC  A UNIT OF KOCHIKUNNEL WINES ,10,3,37840,Dinner
+336,Kerala,Malappuram,4.7,Without Alcohol,Hotel Samrat and Tourist Home,10,3,66821,Lunch
+337,Kerala,Malappuram,4.1,Without Alcohol,Hotel Souparnika Inn  A unit of Hotel Souparnika Inn Pvt Ltd  ,12,3,67439,All meals
+338,Kerala,Malappuram,1.3,Without Alcohol,HOTEL SWAGATH,10,3,40512,Breakfast
+339,Kerala,Malappuram,1,Without Alcohol,ROSE RESIDENCY,13,3,54309,Lunch
+340,Kerala,Mavelikkara,4.4,Without Alcohol,HOTEL SIXER,10,3,67918,Dinner
+341,Kerala,Mavelikkara,3.4,Without Alcohol,HOTEL TRAVANCORE REGENCY,11,3,60287,All meals
+342,Kerala,Munnar,1.6,Without Alcohol,Hotel Princess De Munnar,10,3,62850,Breakfast
+343,Kerala,Munnar,3.5,Without Alcohol,ISSACS RESIDENCY,32,3,69730,Dinner
+344,Kerala,Muvattupuzha,2.4,Without Alcohol,Janatha Tourist Home,10,3,57182,Lunch
+345,Kerala,Muvattupuzha,4,Without Alcohol,NEELAMBARI SUITES,22,3,58392,All meals
+346,Kerala,Muvattupuzha,3,Without Alcohol,The Krishna Regency Muvattupuzha ,11,3,72418,Breakfast
+347,Kerala,Ottappalam,1.1,Without Alcohol,KOTTARAMHOTELS PVT LTD,19,3,69592,Lunch
+348,Kerala,Palai,2.3,Without Alcohol,Hotel Maharani,12,3,32798,Dinner
+349,Kerala,Palai,2.4,Without Alcohol,Hotel Zodiac,11,3,64291,All meals
+350,Kerala,Palakkad,1,Without Alcohol,DEEPA RESTAURANT AND TOURIST HOME,11,3,59345,Breakfast
+351,Kerala,Palakkad,3,Without Alcohol,GAYATHRI INN,11,3,50938,Dinner
+352,Kerala,Palakkad,4,Without Alcohol,HOTEL CHANAKYA,11,3,73129,Lunch
+353,Kerala,Palakkad,3,Without Alcohol,HOTEL DIANA  THE SOUTH MALABAR TRADING COMPANY ,11,3,70382,All meals
+354,Kerala,Palakkad,5,Without Alcohol,HOTEL GAYATHRI INTERNATIONAL,13,3,45845,Breakfast
+355,Kerala,Palakkad,4,Without Alcohol,HOTEL GAYATHRI REGENCY,13,3,35829,Lunch
+356,Kerala,Palakkad,2.2,Without Alcohol,Hotel Govardhana,12,3,49327,Dinner
+357,Kerala,Palakkad,4.5,Without Alcohol,HOTEL KAIRALI,14,3,74629,All meals
+358,Kerala,Palakkad,5,Without Alcohol,HOTEL KAIRALI TOWERS,12,3,67539,Breakfast
+359,Kerala,Palakkad,2.2,Without Alcohol,HOTEL MAPS RESIDENCY,14,3,67539,Lunch
+360,Kerala,Palakkad,4.4,Without Alcohol,Hotel Rajadhani,12,3,52317,Dinner
+361,Kerala,Palakkad,3.2,Without Alcohol,JYOTHIS REGENCY  A unit of Moochikunnans Hotel Pvt  Ltd  ,20,3,70931,All meals
+362,Kerala,Palakkad,3.1,Without Alcohol,KALYAN TOURIST HOME,15,3,96723,Breakfast
+363,Kerala,Palakkad,4,Without Alcohol,Sree Narayana Hotel,11,3,79348,Lunch
+364,Kerala,Palakkad,3,Without Alcohol,The Gold Hotel,10,3,84515,Dinner
+365,Kerala,Paravoor,1.1,Without Alcohol,Hotel Grand Muziris,11,3,96482,All meals
+366,Kerala,Paravoor,2.3,Without Alcohol,JAYA TOURIST HOME,10,3,88823,Breakfast
+367,Kerala,Pathanamthitta,2.4,Without Alcohol,Hotel Amala,10,3,93457,Dinner
+368,Kerala,Pathanamthitta,4.7,Without Alcohol,Hotel Heyday Inn,10,3,77534,Lunch
+369,Kerala,Pathanamthitta,4.1,Without Alcohol,HOTEL SEA BLUE,10,3,86592,All meals
+370,Kerala,Pathanamthitta,1.3,Without Alcohol,HOTEL SURYA AND GIRIRANI TOURIST HOME,10,3,89924,Breakfast
+371,Kerala,Pathanamthitta,2.4,Without Alcohol,KUTTIES RESIDENCY,11,3,92834,Dinner
+372,Kerala,Pathanamthitta,3.1,Without Alcohol,Shines Tourist Hotel,12,3,93482,Lunch
+373,Kerala,Pattambi,2.6,Without Alcohol,NAKSHATRA REGENCY,12,3,97834,All meals
+374,Kerala,Payyanur,1.4,Without Alcohol,HOTEL ARCHANA AND DWARAKA TOURIST HOME,22,3,79764,Breakfast
+375,Kerala,Payyanur,4.9,Without Alcohol,K B C GREEN PARK HOTEL,22,3,88342,Dinner
+376,Kerala,Perumbavoor,1.9,Without Alcohol,EAGLE TOURIST HOME,10,3,87752,Lunch
+377,Kerala,Perumbavoor,2.9,Without Alcohol,EMBASSERY RESIDENCY,11,3,87935,All meals
+378,Kerala,Perumbavoor,3.7,Without Alcohol,HOTEL ANJALY INTERNATIONAL,10,3,91428,Breakfast
+379,Kerala,Perumbavoor,3.5,Without Alcohol,Manna Tourist Home,10,3,98235,Lunch
+380,Kerala,Perumbavoor,3.1,Without Alcohol,RITZ INTERNATIONAL,11,3,89236,Dinner
+381,Kerala,Ponnani,4.1,Without Alcohol,HOTEL SAAYOOJ,10,3,86523,All meals
+382,Kerala,Punalur,3.1,Without Alcohol,NARENDRA REGENCY,11,3,87239,Breakfast
+383,Kerala,Quilandy,4.6,Without Alcohol,Park Residency,15,3,95482,Dinner
+384,Kerala,Shoranur,3,Without Alcohol,Apsara Tourist Home,10,3,82346,Lunch
+385,Kerala,Sultan Bathery,5,Without Alcohol,HOTEL THE RESORT,10,3,91764,All meals
+386,Kerala,Taliparamba,4,Without Alcohol,HOTEL CHEMBARATHY GARDEN,17,3,92648,Breakfast
+387,Kerala,Thalikkulam,2.2,Without Alcohol,Central Residency   Unit of Vynika Hotels Private Limited ,10,3,89524,Dinner
+388,Kerala,Thekkady,4.5,Without Alcohol,HOLIDAY VISTA  M S C Hotels and Resorts Pvt Ltd  ,52,3,94987,Lunch
+389,Kerala,Thiruvalla,5,Without Alcohol,Hotel Ashok International,10,3,79143,All meals
+390,Kerala,Thiruvalla,2.2,Without Alcohol,Hotel Bessota International,20,3,97342,Breakfast
+391,Kerala,Thiruvananthapuram,4.4,Without Alcohol,Amala s Residency,16,3,91528,Lunch
+392,Kerala,Thiruvananthapuram,3.2,Without Alcohol,HOTEL ASLIYYA GRANDE,20,3,88293,Dinner
+393,Kerala,Thiruvananthapuram,2,Without Alcohol,HOTEL CITY PALACE,10,3,91283,All meals
+394,Kerala,Thiruvananthapuram,1,Without Alcohol,Hotel Flamingo Inn a unit of flamingo Inn Pvt Ltd ,41,3,98142,Breakfast
+395,Kerala,Thiruvananthapuram,2,Without Alcohol,HOTEL HIGHNESS INN,11,3,78423,Dinner
+396,Kerala,Thiruvananthapuram,4,Without Alcohol,HOTEL INDRAPRASTHA,10,3,97732,Lunch
+397,Kerala,Thiruvananthapuram,3,Without Alcohol,HOTEL INDRAPRASTHA,15,3,78423,All meals
+398,Kerala,Thiruvananthapuram,1.1,Without Alcohol,Hotel Indrapuri,10,3,94523,Breakfast
+399,Kerala,Thiruvananthapuram,2.3,Without Alcohol,HOTEL PADMA,10,3,88294,Dinner
+400,Kerala,Thiruvananthapuram,2.4,Without Alcohol,HOTEL PRASANTH ,51,3,94682,Lunch
+401,Kerala,Thiruvananthapuram,4.7,Without Alcohol,HOTEL PRASANTHI,15,3,87652,All meals
+402,Kerala,Thiruvananthapuram,4.1,Without Alcohol,Hotel Rajadhani,17,3,88974,Breakfast
+403,Kerala,Thiruvananthapuram,1.3,Without Alcohol,Hotel Safari,19,3,82345,Dinner
+404,Kerala,Thiruvananthapuram,1.9,Without Alcohol,Leela Backwaters Inn,15,3,97382,Lunch
+405,Kerala,Thiruvananthapuram,1.4,Without Alcohol,PADMASREE TOURIST HOME,11,3,83792,All meals
+406,Kerala,Thiruvananthapuram,2.4,Without Alcohol,Pattom Royal Hotel,45,3,87293,Breakfast
+407,Kerala,Thiruvananthapuram,2.1,Without Alcohol,RACO REGENCY,12,3,97235,Dinner
+408,Kerala,Thiruvananthapuram,3,Without Alcohol,RUBY ARENA,40,3,94325,Lunch
+409,Kerala,Thiruvananthapuram,5,Without Alcohol,The Grand Residency ,16,3,92583,All meals
+410,Kerala,Thiruvananthapuram,4,Without Alcohol,THE TRAVANCORE HERITAGE  A Unit of Joys The Beach Resort P  Ltd  ,84,3,78763,Breakfast
+411,Kerala,Thodupuzha,2.2,Without Alcohol,GEMINY TOURIST HOME,17,3,94523,Dinner
+412,Kerala,Thodupuzha,4.5,Without Alcohol,Hotel Vrindavan,11,3,96325,Lunch
+413,Kerala,Thodupuzha,5,Without Alcohol,Hotel Xavier s Avenue Pvt  Ltd ,20,3,79543,All meals
+414,Kerala,Thodupuzha,2.2,Without Alcohol,Tee Cee Restaurant,11,3,93527,Breakfast
+415,Kerala,Thripunithura,4.4,Without Alcohol,Kottavathil Restaurant ,10,3,97246,Dinner
+416,Kerala,Thrissur,3.2,Without Alcohol,ASHOKA INN,34,3,82943,Lunch
+417,Kerala,Thrissur,2,Without Alcohol,ASHOKA RESIDENCY,11,3,89173,All meals
+418,Kerala,Thrissur,1.7,Without Alcohol,Central Hotel Agencies,10,3,97634,Breakfast
+419,Kerala,Thrissur,2.4,Without Alcohol,CHERAKULAM TOURIST HOME,10,3,98632,Dinner
+420,Kerala,Thrissur,4,Without Alcohol,DAYA REGENCY,10,3,87563,Lunch
+421,Kerala,Thrissur,3,Without Alcohol,Deliza Residency,20,3,93752,All meals
+422,Kerala,Thrissur,1.1,Without Alcohol,Devasura Inn  A Unit of Devasura Inn Private Limited,11,3,89174,Breakfast
+423,Kerala,Thrissur,2.3,Without Alcohol,Fort Gate Hotels and Resorts  A unit of Fort Gate Hotels and Resorts Private Limited ,18,3,92134,Lunch
+424,Kerala,Thrissur,2.4,Without Alcohol,GOLDEN BAR,10,3,94623,Dinner
+425,Kerala,Thrissur,4.7,Without Alcohol,HAMARA HOTELS,20,3,78723,All meals
+426,Kerala,Thrissur,4.1,Without Alcohol,HIGHWAY PALACE INN,20,3,85239,Breakfast
+427,Kerala,Thrissur,1.3,Without Alcohol,HOLIDAY PARK,13,3,97834,Dinner
+428,Kerala,Thrissur,1,Without Alcohol,HOTEL APSARA,10,3,95324,Lunch
+429,Kerala,Thrissur,4.4,Without Alcohol,Hotel Ayodhya Regency ,10,3,89972,All meals
+430,Kerala,Thrissur,3.4,Without Alcohol,Hotel Clay House,25,3,86124,Breakfast
+431,Kerala,Thrissur,1.6,Without Alcohol,Hotel Dreamland,19,3,93724,Dinner
+432,Kerala,Thrissur,3.5,Without Alcohol,HOTEL HILL TOP,11,3,95763,Lunch
+433,Kerala,Thrissur,2.4,Without Alcohol,Hotel Kottaram Residency,17,3,78345,All meals
+434,Kerala,Thrissur,4,Without Alcohol,HOTEL MOON AND SHOPPING COMPLEX ,10,3,79123,Breakfast
+435,Kerala,Thrissur,3,Without Alcohol,HOTEL NEW CASTLE,10,3,79234,Lunch
+436,Kerala,Thrissur,1.1,Without Alcohol,HOTEL OAK TREE ,14,3,96324,Dinner
+437,Kerala,Thrissur,2.3,Without Alcohol,Hotel Park Residency,12,3,95634,All meals
+438,Kerala,Thrissur,2.4,Without Alcohol,HOTEL PENINSULA,12,3,95732,Breakfast
+439,Kerala,Thrissur,2.7,Without Alcohol,Hotel Salkara,10,3,92834,Dinner
+440,Kerala,Thrissur,2.3,Without Alcohol,HOTEL SEVEN SEAS,11,3,78294,Lunch
+441,Kerala,Thrissur,3,Without Alcohol,Hotel Simla,10,3,82745,All meals
+442,Kerala,Thrissur,5,Without Alcohol,HOTEL SREE GOKULAM RESIDENCY  A UNIT OF SREE GOKULAM HOTELS INDIA PVT LTD ,20,3,86974,Breakfast
+443,Kerala,Thrissur,4,Without Alcohol,HOTEL WAYLORD,10,3,97834,Lunch
+444,Kerala,Thrissur,2.2,Without Alcohol,Hotel Zodiac,10,3,87654,Dinner
+445,Kerala,Thrissur,4.5,Without Alcohol,Keli Residency   A Unit of Keli Hotels Private Limited ,19,3,92736,All meals
+446,Kerala,Thrissur,5,Without Alcohol,Kovilakam Inn  A unit of Kovilakam Inn India Private Limited ,13,3,94523,Breakfast
+447,Kerala,Thrissur,2.2,Without Alcohol,LUMBINI SUPREME,10,3,91754,Dinner
+448,Kerala,Thrissur,4.4,Without Alcohol,M R TOURIST HOME,10,3,87623,Lunch
+449,Kerala,Thrissur,3.2,Without Alcohol,MAY FAIR HOTELS,10,3,83642,All meals
+450,Kerala,Thrissur,2,Without Alcohol,Mayura Inn,18,3,95236,Breakfast
+451,Kerala,Thrissur,1.7,Without Alcohol,Peringottukara Palace,14,3,93124,Dinner
+452,Kerala,Thrissur,4,Without Alcohol,Polakulath Tourist Home Kodugallor,10,3,88342,Lunch
+453,Kerala,Thrissur,1.3,Without Alcohol,POORAM RESIDENCY HOTEL INDIA PRIVATE LIMITED,13,3,78952,All meals
+454,Kerala,Thrissur,1,Without Alcohol,Rose Residency,10,3,83492,Breakfast
+455,Kerala,Thrissur,4.4,Without Alcohol,Solar Hotels  A unit of Solar Hotels Pvt Ltd  ,10,3,78624,Lunch
+456,Kerala,Thrissur,3.4,Without Alcohol,THE NADUMURI INN,11,3,86492,Dinner
+457,Kerala,Thrissur,1.6,Without Alcohol,VICTORY INTERNATIONAL,10,3,92863,All meals
+458,Kerala,Tirur,3.5,Without Alcohol,HOTEL DEEPA RESTAURANT,12,3,88294,Breakfast
+459,Kerala,Tirur,2.4,Without Alcohol,Hotel Salkara,11,3,45115,Dinner
+460,Kerala,Valancherry,4,Without Alcohol,SWAGATH INN,12,3,51273,Lunch
+461,Kerala,Varkala,3,Without Alcohol,Hindustan Beach Retreat,27,3,54639,All meals
+462,Kerala,Varkala,1.1,Without Alcohol,hotel varkala park international,16,3,45923,Breakfast
+463,Kerala,Wayanad,2.3,Without Alcohol,HOTEL SAUGANDHIKA WEST GATE,12,3,45846,Lunch
+464,Kerala,Wayanad,2.4,Without Alcohol,Hotel Manasasaras,13,3,31587,Dinner
+465,Kerala,Wayanad,1.7,Without Alcohol,HOTEL MAYO,12,3,85563,All meals
+466,Kerala,Wayanad,4.9,Without Alcohol,HOTEL VANARANI,10,3,41581,Breakfast
+467,Kerala,Wayanad,3.7,Without Alcohol,STERLING HOLIDAY RESORTS LTD,61,3,71547,Dinner
+468,Madhya Pradesh,Avarghani,4,Without Alcohol,PENCH JUNGLE CAMP,31,3,73821,Lunch
+469,Madhya Pradesh,Bhopal,3,Without Alcohol,HOTEL AMER PALACE,55,3,68821,All meals
+470,Madhya Pradesh,Bhopal,1.1,Without Alcohol,Hotel Amer Palace,55,3,71823,Breakfast
+471,Madhya Pradesh,Tikamgarh,2.3,Without Alcohol,Silver Estate Resort,50,3,69832,Dinner
+472,Maharashtra,Ahmednagar,2.4,Without Alcohol,Hotel Yash Grand ,27,3,70932,Lunch
+473,Maharashtra,Amravati,4.7,Without Alcohol,THE GRAND MEHFIL,79,3,67823,All meals
+474,Maharashtra,Andheri  East ,4.1,Without Alcohol,Hotel Om Tunga Vihar,20,3,72932,Breakfast
+475,Maharashtra,Andheri  East ,1.3,Without Alcohol,The Regale by Tunga A unit of Hotel Tunga Regale  India  Pvt  Ltd  ,49,3,69821,Lunch
+476,Maharashtra,Aurangabad,1,Without Alcohol,LEMON TREE HOTEL AURANGABAD,102,3,71832,Dinner
+477,Maharashtra,Lonavala,4.4,Without Alcohol,The Fern  A Unit of Agarwal Hospitality Pvt  Ltd  ,80,3,68823,All meals
+478,Maharashtra,Mulshi,3.4,Without Alcohol,Atmantan Resort Wellness Health Centre ,108,3,76683,Breakfast
+479,Maharashtra,Mumbai,1.6,Without Alcohol,Citizen Hotel  A UNIT OF CITIZEN HOTELS PVT  LTD  ,43,3,82142,Dinner
+480,Maharashtra,Mumbai,3.5,Without Alcohol,HOTEL SUNCITY RESIDENCY,35,3,83675,Lunch
+481,Maharashtra,MUMBAI,2.4,Without Alcohol,Hotel Tunga Paradise,40,3,87729,All meals
+482,Maharashtra,Mumbai,4,Without Alcohol,KEYS HOTEL NESTOR ,100,3,95672,Breakfast
+483,Maharashtra,Mumbai,3,Without Alcohol,Kohinoor Elite  A Unit of Kohinoor Elite Hotels Pvt Ltd  ,100,3,87123,Dinner
+484,Maharashtra,Mumbai,1.1,Without Alcohol,Peninsula Redpine Hotel  A Unit of The Competent Hotel Private Limited,29,3,93485,Lunch
+485,Maharashtra,Mumbai,2.3,Without Alcohol,Sea Palace Hotel,47,3,92746,All meals
+486,Maharashtra,Mumbai,2.4,Without Alcohol,Soho House Mumbai,36,3,86249,Breakfast
+487,Maharashtra,Mumbai,1.3,Without Alcohol,THE MIRADOR,106,3,78835,Lunch
+488,Maharashtra,Nagpur,4,Without Alcohol,Hotel Naivedhyam North Star,38,3,98723,Dinner
+489,Maharashtra,Nagpur,2.1,Without Alcohol,Tadoba Vanya Villas Resort and Spa  a unit of Royale Blue Resorts India Private Limited ,36,3,96324,All meals
+490,Maharashtra,Nashik,3.4,Without Alcohol,Hotel Grand Rio  A Unit of CMP Hospitality  ,45,3,98823,Breakfast
+491,Maharashtra,Navi Mumbai,3,Without Alcohol,HOTEL HIGHWAY VIEW,20,3,93482,Dinner
+492,Maharashtra,Navi Mumbai,5,Without Alcohol,Hotel Supreme Heritage,61,3,95824,Lunch
+493,Maharashtra,Palghar,4,Without Alcohol,ANCHAVIYO RESORTS,16,3,87432,All meals
+494,Maharashtra,Pune,2.2,Without Alcohol,Ginger Pune Wakad,127,3,92137,Breakfast
+495,Maharashtra,Pune,4.5,Without Alcohol,IBIS HOTEL   PUNE  UNIT OF INTERGLOBE HOTELS PRIVATE LIMITED ,160,3,96123,Lunch
+496,Maharashtra,Thane,5,Without Alcohol,GCC HOTEL AND CLUB,106,3,98523,Dinner
+497,Maharashtra,Thane,2.2,Without Alcohol,GCC Hotels Private Limited,48,3,95823,All meals
+498,Maharashtra,Thane,4.4,Without Alcohol,Krishna Palace,58,3,93724,Breakfast
+499,Manipur,Imphal ,3.2,Without Alcohol,Elora Hotel  a unit of Chingao Hotel and Resorts Pvt  Ltd ,28,3,98742,Dinner
+500,Meghalaya,Shillong ,2,Without Alcohol,HOTEL POINISUK,30,3,96742,Lunch
+501,Odisha,Angul,1,Without Alcohol,ASHIANA HILL VIEW,80,3,97623,All meals
+502,Odisha,Jajpur Road,4.4,Without Alcohol,Ginger Hotel Kalinganagar,93,3,98234,Breakfast
+503,Odisha,Jharsuguda,3.4,Without Alcohol,THR ORCHARD  Garden Palace Hotels Resorts Pvt Ltd,50,3,99237,Dinner
+504,Odisha,Puri,1.6,Without Alcohol,MAYFAIR Waves  Puri,34,3,94123,Lunch
+505,Odisha,Talcher,3.5,Without Alcohol,Hotel Surya Garden,38,3,99123,All meals
+506,Punjab,Jalandhar,2.4,Without Alcohol,COUNTRY INN SUITES BY RADISSON A UNIT OF HAYRE REGENCY HOTELS PRIVATE LIMITED,45,3,93782,Breakfast
+507,Punjab,Jalandhar,4,Without Alcohol,Hotel Imperia Suites,18,3,94873,Lunch
+508,Rajasthan,Jaipur,3,Without Alcohol,Hotel Le Grande ,19,3,93927,Dinner
+509,Rajasthan,Jaipur,1.1,Without Alcohol,Mansingh Towers,53,3,98723,All meals
+510,Rajasthan,Jaipur,2.3,Without Alcohol,RCL JAIPUR,103,3,98472,Breakfast
+511,Tamil Nadu,Chennai ,2.4,Without Alcohol,BEVERLY,52,3,96823,Dinner
+512,Tamil Nadu,Thanjavur,2.4,Without Alcohol,SANGAM HOTELS,57,3,98234,Lunch
+513,Telangana,Hyderabad,3.1,Without Alcohol,BESTWESTERN ASHOKA,88,3,97834,All meals
+514,Telangana,HYDERABAD,2.6,Without Alcohol,Minerva Grand   Kompally,42,3,98832,Breakfast
+515,Telangana,Hyderabad,1.4,Without Alcohol,OHRIS BANJARA  A UNIT OF HOTEL KAMAL PVT LTD  ,24,3,98924,Dinner
+516,Telangana,Hyderabad,4.9,Without Alcohol,Tara,126,3,98723,Lunch
+517,Telangana,Hyderabad,1.9,Without Alcohol,VAISHNAOI HOTELS INDIA PVT LTD,41,3,96783,All meals
+518,Uttar Pradesh,Ghaziabad,2.9,Without Alcohol,Fortune Inn Grazia,50,3,98973,Breakfast
+519,Uttarakhand,Ramnagar,3.7,Without Alcohol,The Manor Kashipur  Unit of R R Hotels ,30,3,97942,Lunch
+520,West Bengal,Asansol,3.5,Without Alcohol,HOTEL ASANSOL INTERNATIONAL,42,3,97923,Dinner
+521,West Bengal,Bankura,3.1,Without Alcohol,HOTEL SAPTAPARNA,24,3,97284,All meals
+522,West Bengal,Bishnupur,4.1,Without Alcohol,HOTEL ANNAPURNA,45,3,97823,Breakfast
+523,West Bengal,Durgapur,3.1,Without Alcohol,The Peerless Inn Durgapur,108,3,95782,Dinner
+524,West Bengal,Kolkata,4.6,Without Alcohol,ETHNOTEL   A UNIT OF RAHA HOSPITALITY PVT LTD ,41,3,96782,Lunch
+525,West Bengal,Kolkata,1,Without Alcohol,GALLERY HOTELS AND RESORTS,34,3,98732,All meals
+526,West Bengal,Kolkata,4.4,Without Alcohol,Hotel De Sovrani,55,3,98234,Breakfast
+527,West Bengal,Kolkata,3.4,Without Alcohol,Hotel Walson,29,3,68821,Dinner
+528,West Bengal,Kolkata,1.6,Without Alcohol,IBIS HOTEL   KOLKATA  A UNIT OF INTERGLOBE HOTELS PRIVATE LIMITED ,189,3,71823,Lunch
+529,West Bengal,Kolkata,3.5,Without Alcohol,Jameson Inn Shiraz,40,3,69832,All meals
+530,West Bengal,Kolkata,2.4,Without Alcohol,Kolkatta Hotels Ltd  Holiday Inn Express Airport Kolkata ,130,3,70932,Breakfast
+531,West Bengal,Kolkata,4,Without Alcohol,Park Prime Kolkata  A unit of Chocolate Hotels Pvt  Ltd  ,62,3,67823,Dinner
+532,West Bengal,Kolkata,3,Without Alcohol,REGENTA LARICA INN,45,3,72932,Lunch
+533,West Bengal,Kolkata,1.1,Without Alcohol,SENS HOTELS PVT LTD   UNIT  BRAND  REGENTA ORKO S KOLKATA by Royal Orchid Hotels,69,3,69821,All meals
+534,West Bengal,Kolkata,2.3,Without Alcohol,The Fern Residency Kolkata  a unit of Protect Vanijya Pvt  Ltd ,48,3,71832,Breakfast
+535,West Bengal,Kolkata,2.4,Without Alcohol,The Golden Park,50,3,68823,Lunch
+536,West Bengal,Kolkata,2.972461752,Without Alcohol,VICTORIA HOTEL,34,3,76683,Dinner
+537,Andhra Pradesh,Kakinada,3,Without Alcohol,Grand Kakinada by GRT Hotels,83,3,82142,All meals
+538,Andhra Pradesh,Vijayawada,5,With Alcohol,Quality Hotel D V Manor,119,3,83675,Breakfast
+539,Andhra Pradesh,Visakhapatnam,4,With Alcohol,Fairfield By Marriott  A Unit Of KSR Developers Pvt Ltd ,121,3,87729,Dinner
+540,Andhra Pradesh,Visakhapatnam,2.2,With Alcohol,FORTUNE INN SREEKANYA,68,3,95672,Lunch
+541,Andhra Pradesh,Visakhapatnam,4.5,With Alcohol,HOTEL DASPALLA,125,3,87123,All meals
+542,Andhra Pradesh,Visakhapatnam,5,With Alcohol,WelcomHotel Grand Bay,104,3,93485,Breakfast
+543,Chhattisgarh,Bilaspur,2.2,With Alcohol,HOTEL EAST PARK,78,3,92746,Dinner
+544,Chhattisgarh,Raipur ,4.4,With Alcohol,HOTEL GRAND IMPERIA  UNIT OF GRAND ARSH,30,3,86249,Lunch
+545,Chhattisgarh,Raipur ,3.2,With Alcohol,Clarks Inn Suites,51,3,78835,All meals
+546,Chhattisgarh,Raipur ,2,With Alcohol,HOTEL BABYLON INN PVT LTD,72,3,98723,Breakfast
+547,Chhattisgarh,Raipur ,3.1,With Alcohol,HOTEL CELEBRATION,43,3,96324,Lunch
+548,Chhattisgarh,Raipur ,0,With Alcohol,Hyatt Raipur  A Unit of Chartered Hotels Private Limited ,105,3,98823,Dinner
+549,Chhattisgarh,Raipur ,2.972461752,With Alcohol,Sayaji Hotel Raipur,101,3,93482,All meals
+550,Delhi,Delhi,2.972461752,With Alcohol,Crowne Plaza Mayur Vihar,159,3,95824,Breakfast
+551,Delhi,Delhi,0,With Alcohol,HOLIDAYINN,265,3,87432,Dinner
+552,Delhi,Delhi,2.972461752,With Alcohol,Hotel City Park,58,3,92137,Lunch
+553,Delhi,Delhi,2.972461752,With Alcohol,Hotel Holiday Inn,192,3,96123,All meals
+554,Delhi,New Delhi,4,With Alcohol,Crowne Plaza New Delhi Rohini,183,3,98523,Breakfast
+555,Delhi,New Delhi,3,With Alcohol,CROWNE PLAZA NEW DELHI ROHINI,183,3,95823,Lunch
+556,Delhi,New Delhi,1.1,With Alcohol,CROWNE PLAZA TODAY NEW DELHI OKHLA,208,3,93724,Dinner
+557,Delhi,New Delhi,2.3,With Alcohol,EDENPARK HOTELS PVT LTD,30,3,98742,All meals
+558,Delhi,New Delhi,2.4,With Alcohol,Hilton Garden Inn New Delhi  Saket,115,3,96742,Breakfast
+559,Delhi,New Delhi,4.7,With Alcohol,PRIDE HOTEL LIMITED,378,3,97623,Dinner
+560,DNH   DD,Silvassa ,4.1,With Alcohol,RAS RESORTS,97,3,98234,Lunch
+561,Goa,Arpora,1.3,With Alcohol,Sun Village Resorts Pvt Ltd,135,3,99237,All meals
+562,Goa,Mapusa,2.972461752,With Alcohol,Nanu Beach Resort And Spa,62,3,94123,Breakfast
+563,Goa,Margao,2.972461752,With Alcohol,Nanu Resort,72,3,99123,Lunch
+564,Goa,vasco da gama,2.972461752,With Alcohol,THE HQ ,50,3,93782,Dinner
+565,Haryana,Faridabad,2.972461752,With Alcohol,ART AND CRAFT LALIT HOTEL,35,3,94873,All meals
+566,Haryana,Gurgaon,1,With Alcohol,Best Western Resort Country Club  Prop Raghav Farms and Resorts Pvt Ltd ,117,3,93927,Breakfast
+567,Haryana,Gurgaon,4.4,With Alcohol,CLARENS HOTEL,32,3,98723,Dinner
+568,Haryana,Gurgaon,3.4,With Alcohol,CLARENS HOTEL,32,3,97923,Lunch
+569,Haryana,Gurgaon,1.6,With Alcohol,Hilton Garden Inn ,201,3,97284,All meals
+570,Haryana,Gurgaon,3.5,With Alcohol,HILTON GARDEN INN,201,3,97823,Breakfast
+571,Haryana,Gurgaon,2.4,With Alcohol,Park Plaza Gurgaon,45,3,95782,Lunch
+572,Haryana,Gurgaon,4,With Alcohol,Park Premier  A Unit of Punihani International ,94,3,96782,Dinner
+573,Jharkhand,Dhanbad,3,With Alcohol,SONOTEL HOTELS RESORTS PRIVATE LTD ,56,3,98732,All meals
+574,Karnataka,Bangalore,1.1,With Alcohol,ALOFT BENGALURU CESSNA BUSINESS PARK,191,3,98234,Breakfast
+575,Karnataka,Bangalore,2.3,With Alcohol,Radisson Bengaluru City Center,81,3,68821,Dinner
+576,Karnataka,Bangalore,2.4,With Alcohol,Royal Orchid Central ,129,3,71823,Lunch
+577,Karnataka,Bangalore,2.972461752,With Alcohol,ST MARKS HOTEL PVT LTD,96,3,69832,All meals
+578,Karnataka,Belgaum,2.972461752,With Alcohol,Fairfield by Marriott Belagavi,114,3,69832,Breakfast
+579,Karnataka,Udupi,2.972461752,With Alcohol,COUNTRY INN AND SUITES BY RADISSON MANIPAL,54,3,70932,Dinner
+580,Kerala,Adoor,2.972461752,With Alcohol,HOTEL NEW INDRAPRASTHA,20,3,67823,Lunch
+581,Kerala,Adoor,3,With Alcohol,HOTEL WYTE PORTICO,19,3,72932,All meals
+582,Kerala,Alappuzha,5,With Alcohol,ASWINI RESIDENCY,10,3,69821,Breakfast
+583,Kerala,Alappuzha,4,With Alcohol,Hotel Coral Heights,20,3,71832,Lunch
+584,Kerala,Alappuzha,2.2,With Alcohol,HOTEL MITHILA,10,3,68823,Dinner
+585,Kerala,Alappuzha,4.5,With Alcohol,Karapuram Residency,14,3,76683,All meals
+586,Kerala,Alappuzha,5,With Alcohol,SAUGANDHIKA RESIDENCY,19,3,82142,Breakfast
+587,Kerala,Alappuzha,2.2,With Alcohol,SREELAKSHMI RESIDENCY,19,3,83675,Dinner
+588,Kerala,Angamaly,4.4,With Alcohol,HOTEL SURYA TOWERS,36,3,87729,Lunch
+589,Kerala,Calicut,3.2,With Alcohol,Westway Hotel   A Unit of Sams Property Developers and Hotels Pvt  Ltd  ,61,3,95672,All meals
+590,Kerala,Chalakudy,2,With Alcohol,HOTEL SIDHARTHA  A UNIT OF DALE AND CARRINGTON INVESTMENT PVT LTD ,27,3,87123,Breakfast
+591,Kerala,Chalakudy,2.972461752,With Alcohol,Kallely s Park Inn,13,3,93485,Dinner
+592,Kerala,CHERAI,1,With Alcohol,Blue Waters Cherai ,25,3,92746,Lunch
+593,Kerala,Cherthala,4.4,With Alcohol,HOTEL TRAVANCORE PALACE ,17,3,86249,All meals
+594,Kerala,Ernakulam,3.4,With Alcohol,The Mercy Luxury Business Hotel,41,3,78835,Breakfast
+595,Kerala,Ernakulam,1.6,With Alcohol,Abaam Hotel,27,3,78236,Lunch
+596,Kerala,Ernakulam,3.5,With Alcohol,CRB COCHIN PALACE,16,3,81123,Dinner
+597,Kerala,Ernakulam,2.4,With Alcohol,GRAND HOTEL,38,3,79832,All meals
+598,Kerala,Ernakulam,4,With Alcohol,HOTEL CEE CEE TOWER,20,3,89357,Breakfast
+599,Kerala,Ernakulam,3,With Alcohol,Hotel Cloud 9,18,3,76249,Dinner
+600,Kerala,Ernakulam,1.1,With Alcohol,Hotel Crystal Plaza,12,3,88724,Lunch
+601,Kerala,Ernakulam,2.3,With Alcohol,HOTEL HILL VIEW,33,3,70932,All meals
+602,Kerala,Ernakulam,2.4,With Alcohol,HOTEL N M ROYALE COUNTY,27,4,67823,Breakfast
+603,Kerala,Ernakulam,2.972461752,With Alcohol,Hotel Navarathna,16,4,72932,Dinner
+604,Kerala,Ernakulam,2.972461752,With Alcohol,Hotel Park Residency,27,4,69821,Lunch
+605,Kerala,Ernakulam,2.972461752,With Alcohol,HOTEL VKJ INTERNATIONAL,21,4,71832,All meals
+606,Kerala,Ernakulam,2.972461752,With Alcohol,KABANI REGENCY,18,4,68823,Breakfast
+607,Kerala,Ernakulam,4,With Alcohol,Lotus 8 A part hotels,58,4,76683,Lunch
+608,Kerala,Ernakulam,3,With Alcohol,LOVEDONS GRAND,10,4,82142,Dinner
+609,Kerala,Ernakulam,1.1,With Alcohol,LOVELAND RESIDENCY,10,4,83675,All meals
+610,Kerala,Ernakulam,2.3,With Alcohol,PARAVOOR GALAXY HOTELS PRIVATE LIMITED ,22,4,87729,Breakfast
+611,Kerala,Ernakulam,2.4,With Alcohol,PARAY RESIDENCY ,24,4,95672,Dinner
+612,Kerala,Ernakulam,4.7,With Alcohol,POLAKULATH KARTHIKA REGENCY ,10,4,87123,Lunch
+613,Kerala,Ernakulam,4.1,With Alcohol,The Killians Boutique Hotel,21,4,93485,All meals
+614,Kerala,Ernakulam,1.3,With Alcohol,The Renai Cochin  Formerly Known as Renaissance Cochin  ,48,4,92746,Breakfast
+615,Kerala,Ernakulam,1,With Alcohol,tHE VILLAGE INN,11,4,86249,Dinner
+616,Kerala,Ernakulam,4.4,With Alcohol,VKG Group Holiday Hotel,19,4,78835,Lunch
+617,Kerala,Guruvayoor,3.4,With Alcohol,Polakulaths Sree Krishna Regency ,34,4,98723,All meals
+618,Kerala,Idduki,1.6,With Alcohol,SPICE VILLAGE,52,4,96324,Breakfast
+619,Kerala,Idukki,3.5,With Alcohol,Alanta Residency ,17,4,98823,Lunch
+620,Kerala,Idukki,2.4,With Alcohol,HOTEL JOANCE REGENCY,13,4,93482,Dinner
+621,Kerala,Idukki,4,With Alcohol,HOTEL KUMILY GATE,16,4,95824,All meals
+622,Kerala,Idukki,3,With Alcohol,MATHA REGENCY  A UNIT OF MATHA TOURIST HOME ,19,4,87432,Breakfast
+623,Kerala,Kannur,1.1,With Alcohol,BROAD BEAN  KANNUR,17,4,68821,Dinner
+624,Kerala,Kannur,2.3,With Alcohol,Hotel Samrat,27,4,71823,Lunch
+625,Kerala,Kannur,2.4,With Alcohol,J K Residency,19,4,69832,All meals
+626,Kerala,Kasaragod,3.1,With Alcohol,HOTEL HIGHWAY CASTLE,17,4,70932,Breakfast
+627,Kerala,Kasaragod,2.1,With Alcohol,J K Residency,19,4,67823,Lunch
+628,Kerala,KASARGOD,4.6,With Alcohol,SREE GOKULAM NALANDA RESORTS  A UNIT OF SREE GOKULAM HOTELS INDIA PVT   LTD ,20,4,72932,Dinner
+629,Kerala,Kochi,2.7,With Alcohol,Broad Bean Hotel,47,4,69821,All meals
+630,Kerala,Kochi,1.4,With Alcohol,Elite Tourist Home,22,4,71832,Breakfast
+631,Kerala,Kochi,1.1,With Alcohol,THE AVENUE REGENT,54,4,68823,Dinner
+632,Kerala,Kochi,4,With Alcohol,Yuvarani Residency,38,4,76683,Lunch
+633,Kerala,Kodungallur,3,With Alcohol,Hotel Park Residency,11,4,82142,All meals
+634,Kerala,Kollam,1.1,With Alcohol,All Season Backwater Resort,19,4,83675,Breakfast
+635,Kerala,Kollam,2.3,With Alcohol,HARISREE RESIDENCY,16,4,87729,Dinner
+636,Kerala,Kollam,2.4,With Alcohol,Hotel Ambalakkara Regency,16,4,95672,Lunch
+637,Kerala,Kollam,4.7,With Alcohol,Hotel Hillway,10,4,87123,All meals
+638,Kerala,Kollam,4.1,With Alcohol,HOTEL KAVERY ,11,4,93485,Breakfast
+639,Kerala,Kollam,1.3,With Alcohol,HOTEL LEKSHMI,11,4,92746,Lunch
+640,Kerala,Kollam,2,With Alcohol,HOTEL NILA PALACE ,19,4,86249,Dinner
+641,Kerala,Kollam,1,With Alcohol,HOTEL PANACEA VENTURES ,22,4,78835,All meals
+642,Kerala,Kollam,4.4,With Alcohol,HOTEL RAJ REGENCY,22,4,98723,Breakfast
+643,Kerala,Kollam,3.4,With Alcohol,Hotel Raj Residency,22,4,96324,Dinner
+644,Kerala,Kollam,1.6,With Alcohol,HOTEL REGANT LAKE PALACE ,26,4,98823,Lunch
+645,Kerala,Kollam,3.5,With Alcohol,HOTEL SAMUDRA,11,4,93482,All meals
+646,Kerala,Kollam,2.4,With Alcohol,HOTEL SHILPA REGENCY  A UNIT OF SILPA HOSPITALITY PVT  LTD  ,12,4,95824,Breakfast
+647,Kerala,Kollam,4,With Alcohol,KAVERI INTERNATIONAL,14,4,87432,Lunch
+648,Kerala,Kollam,3,With Alcohol,Madathil Regency,21,4,92137,Dinner
+649,Kerala,Kollam,1.1,With Alcohol,ROYALKALLADA RESIDENCY,20,4,96123,All meals
+650,Kerala,Kottayam,2.3,With Alcohol,Emerald Regency,22,4,98523,Breakfast
+651,Kerala,Kottayam,2.4,With Alcohol,Hotel Arcadia,37,4,95823,Dinner
+652,Kerala,Kottayam,2.1,With Alcohol,HOTEL SANYO,10,4,93724,Lunch
+653,Kerala,Kottayam,1.4,With Alcohol,Hotel Sears Private Limited,11,4,98742,All meals
+654,Kerala,Kottayam,2.4,With Alcohol,SAKTHI TOURIST HOME,23,4,96742,Breakfast
+655,Kerala,Kottayam,1.1,With Alcohol,Windsor Castle,56,4,97623,Lunch
+656,Kerala,Kottayam,2.4,With Alcohol,Zodiac Heritage,10,4,98234,Dinner
+657,Kerala,Kumarakom,2.1,With Alcohol,Taj Kumarakom Resort and Spa,28,4,99237,All meals
+658,Kerala,Malappuram,1.4,With Alcohol,HOTEL DEVALOKAM,12,4,94123,Breakfast
+659,Kerala,Malappuram,2.4,With Alcohol,MALABAR HERITAGE  KMA Resorts Pvt Ltd ,18,4,99123,Dinner
+660,Kerala,Malappuram,1.1,With Alcohol,NIRMALLYAM RESIDENCY HOTELS PRIVATE LIMITED,21,4,93782,Lunch
+661,Kerala,Muvattupuzha,1,With Alcohol,Hotel Central Fort,10,4,94873,All meals
+662,Kerala,Muvattupuzha,3,With Alcohol,HOTEL KABANI INTERNATIONAL,13,4,93927,Breakfast
+663,Kerala,Muvattupuzha,5,With Alcohol,HOTEL NARENDRA CENTRAL,10,4,98723,Dinner
+664,Kerala,Palai,4,With Alcohol,Armani Residency,12,4,82142,Lunch
+665,Kerala,Palai,2.2,With Alcohol,MAREENA TOURIST HOME,11,4,83675,All meals
+666,Kerala,Perumbavoor,4.5,With Alcohol,Aarya Palace,16,4,87729,Breakfast
+667,Kerala,Perumbavoor,5,With Alcohol,JAIRAJ LODGE,10,4,95672,Lunch
+668,Kerala,Thiruvananthapuram,2.2,With Alcohol,HOTEL CLASSIC AVENUE,60,4,87123,Dinner
+669,Kerala,Thiruvananthapuram,4.4,With Alcohol,HOTEL DOUBLOON,29,4,93485,All meals
+670,Kerala,Thiruvananthapuram,3.2,With Alcohol,Hotel Karthika Residency ,12,4,92746,Breakfast
+671,Kerala,Thiruvananthapuram,2,With Alcohol,HOTEL LIBRA,22,4,86249,Dinner
+672,Kerala,Thiruvananthapuram,1.1,With Alcohol,Hotel Maurya Rajadhani,39,4,78835,Lunch
+673,Kerala,Thiruvananthapuram,2.1,With Alcohol,HOTEL NEW INDRAPRASTHA,22,4,78236,All meals
+674,Kerala,Thiruvananthapuram,1.4,With Alcohol,HOTEL ROHINI INTERNATIONAL,11,4,81123,Breakfast
+675,Kerala,Thiruvananthapuram,3.4,With Alcohol,HOTEL SAVITHRI,15,4,79832,Dinner
+676,Kerala,Thiruvananthapuram,1.1,With Alcohol,HOTEL SOORYA,11,4,89357,Lunch
+677,Kerala,Thiruvananthapuram,2.4,With Alcohol,HOTEL SREEPADMANABHA,18,4,76249,All meals
+678,Kerala,Thiruvananthapuram,4,With Alcohol,SP GRAND DAYS,73,4,88724,Breakfast
+679,Kerala,Thiruvananthapuram,3,With Alcohol,SREEVALSAM RESIDENCY ,17,4,54545,Lunch
+680,Kerala,Thiruvananthapuram,1.1,With Alcohol,SURENDRA TRIDENT HOTEL,11,4,68821,Dinner
+681,Kerala,Thiruvananthapuram,2.3,With Alcohol,THE RESIDENCY TOWER,48,4,71823,All meals
+682,Kerala,Thiruvananthapuram,2.4,With Alcohol,VAKKOM PALAZZO,24,4,69832,Breakfast
+683,Kerala,Thiruvananthapuram,4.7,With Alcohol,WINDSOR RAJADHANI,52,4,70932,Dinner
+684,Kerala,Thrissur,4.1,With Alcohol,ATHIRAPPILLY RESIDENCY HOTELS INDIA PRIVATE LIMITED,20,4,67823,Lunch
+685,Kerala,Thrissur,1.3,With Alcohol,Chand V Regency,17,4,72932,All meals
+686,Kerala,Thrissur,1,With Alcohol,CHERUTHURUTHY ECO GARDENS,47,4,69821,Breakfast
+687,Kerala,Thrissur,4.4,With Alcohol,Hotel Anupama Legacy,10,4,71832,Lunch
+688,Kerala,Thrissur,3.4,With Alcohol,HOTEL LUCIYA PALACE,32,4,68823,Dinner
+689,Kerala,Thrissur,1.6,With Alcohol,Mamatha Motels,11,4,76683,All meals
+690,Kerala,Thrissur,3.5,With Alcohol,Niya Regency,20,4,82142,Breakfast
+691,Kerala,Wayanad,2.4,With Alcohol,Hotel Manasasaras,12,4,83675,Dinner
+692,Maharashtra,Mumbai,4,With Alcohol,Courtyard By Marriott Mumbai International Airport   Unit of Kanakia Hotels And Resorts Pvt Ltd    ,299,4,87729,Lunch
+693,Maharashtra,Mumbai,3,With Alcohol,Fariyas Hotel Mumbai,93,4,95672,All meals
+694,Maharashtra,Mumbai,1.1,With Alcohol,Hotel Kohinoor Continental,137,4,87123,Breakfast
+695,Maharashtra,Mumbai,2.3,With Alcohol,HOTEL SAHIL PVT  LTD ,88,4,93485,Lunch
+696,Maharashtra,Mumbai,2.4,With Alcohol,HOTEL TRANSIT PVT  LTD   T24 RESIDENCY ,55,4,92746,Dinner
+697,Maharashtra,Mumbai,3,With Alcohol,Peninusla Grand Hotel,81,4,86249,All meals
+698,Maharashtra,Mumbai,1.1,With Alcohol,Ramee Guestline Hotel,58,4,78835,Breakfast
+699,Maharashtra,Mumbai,2.3,With Alcohol,Ramee Guestline Hotel,89,4,98723,Dinner
+700,Maharashtra,Mumbai,2.4,With Alcohol,THE SHALIMAR HOTEL,60,4,96324,Lunch
+701,Maharashtra,Mumbai,4.7,With Alcohol,Trident  Bandra Kurla,436,4,98823,All meals
+702,Maharashtra,Nashik,4.1,With Alcohol,COURTYARD MARRIOTT,113,4,93482,Breakfast
+703,Maharashtra,Navi Mumbai,1.3,With Alcohol,Apeejay Surrendra Park Hotels Limited,80,4,95824,Dinner
+704,Maharashtra,Navi Mumbai,2.3,With Alcohol,Ramada Navi Mumbai Saikripa Foods Services Pvt Ltd,99,4,87432,Lunch
+705,Odisha,Angul,2.4,With Alcohol,HOTEL SHAKTI CONTINENTAL,84,4,92137,All meals
+706,Odisha,Bhubaneswar ,3,With Alcohol,Empires,58,4,96123,Breakfast
+707,Odisha,Bhubaneswar ,1.1,With Alcohol,Pal Heights,74,4,98523,Dinner
+708,Odisha,Bhubaneswar ,2.3,With Alcohol,The New Marrion,53,4,95823,Lunch
+709,Punjab,Ludhiana,2.4,With Alcohol,THE PALM COURT ,41,4,93724,All meals
+710,Rajasthan,Sawai Madhopur,4.7,With Alcohol,Sawai Vilas  A unit of The footprints ranthambhore ,60,4,98742,Breakfast
+711,Tamil Nadu,chennai,4.1,With Alcohol,Hotel Courtyard By Marriott,242,4,96742,Dinner
+712,Tamil Nadu,Chennai ,1.3,With Alcohol,EHOTEl,44,4,97623,Lunch
+713,Tamil Nadu,Chennai ,1.2,With Alcohol,Gokulam Park Sabari,85,4,98234,All meals
+714,Tamil Nadu,Chennai ,1.4,With Alcohol,MERCURE CHENNAI SRIPERUMBUDUR,93,4,99237,Breakfast
+715,Tamil Nadu,Chennai ,1.6,With Alcohol,Novotel Chennai Chamiers Road,110,4,94123,Lunch
+716,Tamil Nadu,Chennai ,1.4,With Alcohol,The Raintree  Anna Salai  A Unit of Ceebros Hotels Pvt  Ltd  ,230,4,99123,Dinner
+717,Tamil Nadu,Kancheepuram,4,With Alcohol,REGENTA CENTRAL RS,120,4,93782,All meals
+718,Tamil Nadu,Madurai,3,With Alcohol,COURTYARD BY MARRIOTT,82,4,94873,Breakfast
+719,Tamil Nadu,Salem,1.1,With Alcohol,RADISSON SALEM  A unit of VETRIVEL EXPLOSIVES PRIVATE LIMITED HOTEL DIVISION ,127,4,98823,Dinner
+720,Tamil Nadu,Trichy,2.3,With Alcohol,SRM HOTEL Pv Ltd ,110,4,93482,Lunch
+721,Telangana,Gachibowli,2.4,With Alcohol,Duet India Hotels  Hyderabad  Private Limited,232,4,95824,All meals
+722,Telangana,HYDERABAD,4.7,With Alcohol,Mercure Hyderabad KCP,128,4,87432,Breakfast
+723,Telangana,Hyderabad,4.1,With Alcohol,Sitara,171,4,92137,Lunch
+724,Telangana,Hyderabad,1.3,With Alcohol,The Golkonda Hotel,141,4,96123,Dinner
+725,Uttar Pradesh,Lucknow ,1,With Alcohol,Fairfield By Marriott Hotel,222,4,98523,All meals
+726,Uttar Pradesh,Lucknow ,4.4,With Alcohol,FAIRFIELD BY MARRIOTT LUCKNOW,222,4,95823,Breakfast
+727,Uttar Pradesh,Noida,3.4,With Alcohol,FORTUNE INN GRAZIA  unit of ANGEL BABY PRODUCTS PVT  LTD ,42,4,93724,Dinner
+728,Uttar Pradesh,Shahjahanpur,1.6,With Alcohol,THE GRAND ARC HOTEL  UNIT OF SHRI BALAJI HOSPITALITY ,61,4,98742,Lunch
+729,Uttarakhand,Ramnagar,3.5,With Alcohol,Aahana The Corbett Wilderness  Unit of Corbett Nature Reserve ,46,4,96742,All meals
+730,West Bengal,Baharampur,2.4,With Alcohol,FAME HOTELS PVT LTD,52,4,98823,Breakfast
+731,West Bengal,Kolkata,4,With Alcohol,AAURIS UNIT OF MODERN INNS PRIVATE LIMITED,56,4,93482,Lunch
+732,West Bengal,Kolkata,3,With Alcohol,ALTAIR A UNIT OF AMBUJA REALTY DEVELOPMENT LTD ,23,4,95824,Dinner
+733,West Bengal,Kolkata,1.1,With Alcohol,Hotel Monotel,109,4,87432,All meals
+734,West Bengal,Kolkata,2.3,With Alcohol,HOTEL O2 OXYGEN,109,4,92137,Breakfast
+735,West Bengal,Kolkata,2.4,With Alcohol,HOTEL O2 OXYGEN,109,4,96123,Dinner
+736,West Bengal,Kolkata,1.4,With Alcohol,New Kenilworth Hotel Pvt  Ltd ,101,4,98523,Lunch
+737,West Bengal,Kolkata,4,With Alcohol,THE ASTOR  KOLKATA,33,4,95823,All meals
+738,West Bengal,Kolkata,1.5,With Alcohol,THE SONNET,64,4,93724,Breakfast
+739,West Bengal,Purulia,1.7,With Alcohol,HOTEL AKASH SAROVAR,34,4,98742,Lunch
+740,Andaman And Nicobar,Port Blair ,3,Without Alcohol,HOTEL AQUAGREEN A UNIT OF SOUTHERNS HOLDINGS AND INVESTMENTS CHENNAI PRIVATE LIMITED,48,4,96742,Dinner
+741,Andhra Pradesh,Visakhapatnam,5,Without Alcohol,PALM BEACH HOTEL,74,4,98823,All meals
+742,Chhattisgarh,Raipur ,4,Without Alcohol,Ariena   The Boutique Hotel,50,4,93482,Breakfast
+743,Chhattisgarh,Raipur ,2.2,Without Alcohol,HOtel Vennington Court,57,4,95824,Dinner
+744,Delhi,Delhi,4.5,Without Alcohol,Svelte Hotel And Personal Suites,97,4,87432,Lunch
+745,Delhi,New Delhi,5,Without Alcohol,Crowne Plaza New Delhi Rohini,183,4,92137,All meals
+746,Gujarat,Ahmedabad,2.2,Without Alcohol,BINORI HOTEL PVT LTD,69,4,96123,Breakfast
+747,Gujarat,Ahmedabad,4.4,Without Alcohol,Gulmohar Greens   Golf Country Club Limited,54,4,98523,Dinner
+748,Gujarat,Ahmedabad,3.2,Without Alcohol,hotel kristar llp,20,4,95823,Lunch
+749,Gujarat,Ahmedabad,2,Without Alcohol,HOTEL RAMADA UNIT OF HOTEL SANKALP RECREATION PVT  LTD ,90,4,93724,All meals
+750,Gujarat,Ahmedabad,4.9,Without Alcohol,HOTEL SILVER CLOUD,73,4,98742,Dinner
