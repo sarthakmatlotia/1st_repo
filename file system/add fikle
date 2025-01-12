@@ -1,0 +1,65 @@
+addFileButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
+        if (selectedNode != null) {
+            String fileName = JOptionPane.showInputDialog(frame, "Enter file name:");
+            if (fileName != null && !fileName.trim().isEmpty()) {
+                Node parentNode = (Node) selectedNode.getUserObject();
+                Node newFile = fileSystem.createFile(fileName);
+                fileSystem.addNode(parentNode, newFile);
+                DefaultMutableTreeNode newFileNode = new DefaultMutableTreeNode(newFile);
+                selectedNode.add(newFileNode);
+                ((DefaultTreeModel) tree.getModel()).reload(selectedNode);
+            }
+        }
+    }
+});
+
+renameButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
+        if (selectedNode != null) {
+            Node selectedItem = (Node) selectedNode.getUserObject();
+            String newName = JOptionPane.showInputDialog(frame, "Enter new name for " + selectedItem.getName() + ":");
+            if (newName != null && !newName.trim().isEmpty()) {
+                selectedItem = new Node(newName, selectedItem.isDirectory());
+                selectedNode.setUserObject(selectedItem);
+                ((DefaultTreeModel) tree.getModel()).reload(selectedNode.getParent());
+            }
+        }
+    }
+});
+
+
+deleteButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
+        if (selectedNode != null) {
+            DefaultMutableTreeNode parentNode = (DefaultMutableTreeNode) selectedNode.getParent();
+            if (parentNode != null) {
+                Node parentNodeObj = (Node) parentNode.getUserObject();
+                Node selectedNodeObj = (Node) selectedNode.getUserObject();
+                
+                // Remove the selected node from the parent's children list
+                parentNodeObj.getChildren().remove(selectedNodeObj);
+                
+                // Remove the node from the GUI tree structure
+                ((DefaultTreeModel) tree.getModel()).removeNodeFromParent(selectedNode);
+            }
+        }
+    }
+});
+
+refreshButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        // Rebuild the root node and the entire tree structure
+        DefaultMutableTreeNode rootNode = createTreeNodes(fileSystem.getRoot());
+        
+        // Set the new model for the tree to refresh its display
+        tree.setModel(new DefaultTreeModel(rootNode));
+    }
+});

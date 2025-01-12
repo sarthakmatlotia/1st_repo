@@ -1,0 +1,17 @@
+addDirButton.addActionListener(new ActionListener() {
+    @Override
+    public void actionPerformed(ActionEvent e) {
+        DefaultMutableTreeNode selectedNode = (DefaultMutableTreeNode) tree.getLastSelectedPathComponent();
+        if (selectedNode != null) {
+            String dirName = JOptionPane.showInputDialog(frame, "Enter directory name:");
+            if (dirName != null && !dirName.trim().isEmpty()) {
+                Node parentNode = (Node) selectedNode.getUserObject();
+                Node newDir = fileSystem.createDirectory(dirName);
+                fileSystem.addNode(parentNode, newDir);
+                DefaultMutableTreeNode newDirNode = new DefaultMutableTreeNode(newDir);
+                selectedNode.add(newDirNode);
+                ((DefaultTreeModel) tree.getModel()).reload(selectedNode);
+            }
+        }
+    }
+});
