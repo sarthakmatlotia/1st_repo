@@ -18,10 +18,13 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Check requirements.txt
+        run: ls -l  # Lists files to confirm requirements.txt exists
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt  # No imaplib here
+          pip install -r requirements.txt  # Ensure file is correctly located
 
       - name: Run Flask app
         env:
