@@ -7,20 +7,21 @@ from threading import Thread
 # Flask app for keep-alive
 app = Flask(__name__)
 
-
 @app.route('/')
 def home():
     return "Email Deletion Service Running"
 
+# Health check route for Render
+@app.route('/healthz')
+def health_check():
+    return "OK", 200
 
 def run():
     app.run(host='0.0.0.0', port=8080)
 
-
 def keep_alive():
     t = Thread(target=run)
     t.start()
-
 
 def delete_spam_emails():
     EMAIL = os.environ.get("EMAIL")
@@ -85,7 +86,6 @@ def delete_spam_emails():
 
         print("⏳ Waiting 5 minutes before next check...\n")
         time.sleep(300)
-
 
 # Start the services
 keep_alive()
