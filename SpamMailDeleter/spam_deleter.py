@@ -84,8 +84,8 @@ def delete_spam_emails():
         except Exception as e:
             print(f"⚠️ Unexpected error: {e}")
 
-        print("⏳ Waiting 5 minutes before next check...\n")
-        time.sleep(300)
+        print("⏳ Waiting 30 minutes before next check...\n")
+        time.sleep(1800)
 
 # Start the services
 keep_alive()
